@@ -8,7 +8,7 @@ size = 3
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "yrk" 
+        name = "yrk-word" 
         xmin = 0 
         xmax = 89.2687074829932 
         intervals: size = 130 
