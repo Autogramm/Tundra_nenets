@@ -1,0 +1,335 @@
+# sent_id = 1
+# text = Маряд' нё' сивня мятюдм', сятаняю' мэв, сюртев.
+# text_ru = Я зашел в ворота забора, повернул влево.
+# text_en = I walked through the gate, turned left and walked on.
+1	маря	"мар"""	N	_	_	_	_	_	AlignBegin=0.9798565811038756|AlignEnd=1.3640983286672062|Gloss=fence
+2	-д'	_	X	_	_	_	_	_	AlignBegin=0.9798565811038756|AlignEnd=1.3640983286672062|Gloss=gen.2sg
+3	нё	нё	N	_	_	_	_	_	AlignBegin=1.3640983286672062|AlignEnd=1.6851424203813046|Gloss=door
+4	-'	_	X	_	_	_	_	_	AlignBegin=1.3640983286672062|AlignEnd=1.6851424203813046|Gloss=gen
+5	си	си	N	_	_	_	_	_	AlignBegin=1.6851424203813046|AlignEnd=2.036521386903034|Gloss=hole
+6	-вня	_	X	_	_	_	_	_	AlignBegin=1.6851424203813046|AlignEnd=2.036521386903034|Gloss=prol
+7	мя	мят_тю-	V	_	_	_	_	_	AlignBegin=2.036521386903034|AlignEnd=2.898537412686558|Gloss=tent
+8	-тю	_	X	_	_	_	_	_	AlignBegin=2.036521386903034|AlignEnd=2.898537412686558|Gloss=step.in
+9	-дм'	_	X	_	_	_	_	_	AlignBegin=2.036521386903034|AlignEnd=2.898537412686558|Gloss=1sg
+10	сятаня	сятаня	Adv	_	_	_	_	_	AlignBegin=2.898537412686558|AlignEnd=3.9089474687259904|Gloss=to.the.left
+11	-ю'	_	X	_	_	_	_	_	AlignBegin=2.898537412686558|AlignEnd=3.9089474687259904|Gloss=pol
+12	мэ	мэ-	V	_	_	_	_	_	AlignBegin=3.9089474687259904|AlignEnd=4.618461120641508|Gloss=take
+13	-в	_	X	_	_	_	_	_	AlignBegin=3.9089474687259904|AlignEnd=4.618461120641508|Gloss=1sg.sg
+14	сюрте	сюрте-	V	_	_	_	_	_	AlignBegin=5.738347194281107|AlignEnd=6.64112644865376|Gloss=go.around
+15	-в	_	X	_	_	_	_	_	AlignBegin=5.738347194281107|AlignEnd=6.64112644865376|Gloss=1sg.sg
+
+# sent_id = 2
+# text = Таня' ядадм'.
+# text_ru = Иду туда.
+# text_en = I'm going in that direction.
+1	таня'	таня'	Adv	_	_	_	_	_	AlignBegin=6.64112644865376|AlignEnd=6.956166048678409|Gloss=there
+2	яда	яда-	V	_	_	_	_	_	AlignBegin=6.956166048678409|AlignEnd=7.608760004248434|Gloss=walk
+3	-дм'	_	X	_	_	_	_	_	AlignBegin=6.956166048678409|AlignEnd=7.608760004248434|Gloss=1sg
+
+# sent_id = 3
+# text = Яхам' пул' нимня мадав.
+# text_ru = Я перешел реку через мост.
+# text_en = I crossed the river on the bridge.
+1	яха	яха	N	_	_	_	_	_	AlignBegin=7.983148002817516|AlignEnd=8.878356219134163|Gloss=river
+2	-м'	_	X	_	_	_	_	_	AlignBegin=7.983148002817516|AlignEnd=8.878356219134163|Gloss=acc
+3	пул	пул	N	_	_	_	_	_	AlignBegin=8.878356219134163|AlignEnd=9.269593932942374|Gloss=bridge
+4	-'	_	X	_	_	_	_	_	AlignBegin=8.878356219134163|AlignEnd=9.269593932942374|Gloss=gen
+5	нимня	нимня	Adp	_	_	_	_	_	AlignBegin=9.269593932942374|AlignEnd=9.585863941110688|Gloss=top.prol
+6	мада	мада-	V	_	_	_	_	_	AlignBegin=9.585863941110688|AlignEnd=10.6895760887383|Gloss=pass.across
+7	-в	_	X	_	_	_	_	_	AlignBegin=9.585863941110688|AlignEnd=10.6895760887383|Gloss=1sg.sg
+
+# sent_id = 4
+# text = Тадтикахад тамна тяха' ядадм'.
+# text_ru = Затем иду дальше.
+# text_en = Then I walked on.
+1	тадтикахад	тадтикахад	Adv	_	_	_	_	_	AlignBegin=11.087622303696463|AlignEnd=12.059027350345433|Gloss=afterwards
+2	тамна	тамна	Adv	_	_	_	_	_	AlignBegin=12.059027350345433|AlignEnd=12.328990096858274|Gloss=even
+3	тяха'	"тяха"""	Adv	_	_	_	_	_	AlignBegin=12.328990096858274|AlignEnd=12.47549427027073|Gloss=further
+4	яда	яда-	V	_	_	_	_	_	AlignBegin=12.47549427027073|AlignEnd=12.989279539294273|Gloss=walk
+5	-дм'	_	X	_	_	_	_	_	AlignBegin=12.47549427027073|AlignEnd=12.989279539294273|Gloss=1sg
+
+# sent_id = 5
+# text = "Пям' манэ""ӈадм'."
+# text_ru = Я увидел дерево.
+# text_en = I saw a tree.
+1	пя	пя	N	_	_	_	_	_	AlignBegin=12.989279539294273|AlignEnd=13.221148237591219|Gloss=tree
+2	-м'	_	X	_	_	_	_	_	AlignBegin=12.989279539294273|AlignEnd=13.221148237591219|Gloss=acc
+3	"манэ""	"манэ""-"	V	_	_	_	_	_	AlignBegin=13.221148237591219|AlignEnd=13.753251879813218|Gloss=see
+4	-ӈа	_	X	_	_	_	_	_	AlignBegin=13.221148237591219|AlignEnd=13.753251879813218|Gloss=co
+5	-дм'"	_	X	_	_	_	_	_	AlignBegin=13.221148237591219|AlignEnd=13.753251879813218|Gloss=1sg
+
+# sent_id = 6
+# text = Пям' сятаняӈы хэвувнада маха'няю яля' сер' сюртев.
+# text_ru = Я обошел дерево вокруг слева на право, по ходу солнца.
+# text_en = I walked around the tree from left to right, following the course of the sun.
+1	пя	пя	N	_	_	_	_	_	AlignBegin=14.308692512460372|AlignEnd=14.881383779966583|Gloss=tree
+2	-м'	_	X	_	_	_	_	_	AlignBegin=14.308692512460372|AlignEnd=14.881383779966583|Gloss=acc
+3	сятаня	сятаня'	Adj	_	_	_	_	_	AlignBegin=14.881383779966583|AlignEnd=15.563578038747217|Gloss=to.the.left
+4	-ӈы	_	X	_	_	_	_	_	AlignBegin=14.881383779966583|AlignEnd=15.563578038747217|Gloss=adj
+5	хэву	хэв	N	_	_	_	_	_	AlignBegin=15.563578038747217|AlignEnd=16.342599869741875|Gloss=side
+6	-вна	_	X	_	_	_	_	_	AlignBegin=15.563578038747217|AlignEnd=16.342599869741875|Gloss=pros
+7	-да	_	X	_	_	_	_	_	AlignBegin=15.563578038747217|AlignEnd=16.342599869741875|Gloss=3sg
+8	маха'ня	маха'ня'	Adv	_	_	_	_	_	AlignBegin=16.342599869741875|AlignEnd=17.306474338599674|Gloss=to.the.right
+9	-ю	_	X	_	_	_	_	_	AlignBegin=16.342599869741875|AlignEnd=17.306474338599674|Gloss=pol
+10	яля	яля	N	_	_	_	_	_	AlignBegin=17.306474338599674|AlignEnd=17.913847291578563|Gloss=sun
+11	-'	_	X	_	_	_	_	_	AlignBegin=17.306474338599674|AlignEnd=17.913847291578563|Gloss=gen
+12	сер'	сер'	Adp	_	_	_	_	_	AlignBegin=17.913847291578563|AlignEnd=18.265947554175018|Gloss=when
+13	сюрте	сюрте-	V	_	_	_	_	_	AlignBegin=18.265947554175018|AlignEnd=19.39319673527065|Gloss=go.around
+14	-в	_	X	_	_	_	_	_	AlignBegin=18.265947554175018|AlignEnd=19.39319673527065|Gloss=1sg.sg
+
+# sent_id = 7
+# text = Тикы' пуд яхам' таркахаюта нямна ӈохолырць мадав.
+# text_ru = После я переплыл реку там, где находится его развилка.
+# text_en = Then I crossed the river by swimming along where it forks.
+1	тикы	тикы	Dem	_	_	_	_	_	AlignBegin=19.39319673527065|AlignEnd=20.134682359870517|Gloss=that
+2	-'	_	X	_	_	_	_	_	AlignBegin=19.39319673527065|AlignEnd=20.134682359870517|Gloss=gen
+3	пуд	пуд	Adp	_	_	_	_	_	AlignBegin=20.134682359870517|AlignEnd=20.73265430664758|Gloss=after
+4	яха	яха	N	_	_	_	_	_	AlignBegin=20.73265430664758|AlignEnd=22.108938946055098|Gloss=river
+5	-м'	_	X	_	_	_	_	_	AlignBegin=20.73265430664758|AlignEnd=22.108938946055098|Gloss=acc
+6	тарка	тарка	N	_	_	_	_	_	AlignBegin=24.984899261506676|AlignEnd=26.000502409207396|Gloss=fork
+7	-хаю	_	X	_	_	_	_	_	AlignBegin=24.984899261506676|AlignEnd=26.000502409207396|Gloss=du
+8	-та	_	X	_	_	_	_	_	AlignBegin=24.984899261506676|AlignEnd=26.000502409207396|Gloss=gen.3sg
+9	нямна	нямна	Adp	_	_	_	_	_	AlignBegin=26.000502409207396|AlignEnd=26.959155847691257|Gloss=along
+10	ӈохолыр	ӈохолыр-	Adv	_	_	_	_	_	AlignBegin=26.959155847691257|AlignEnd=28.753071688022438|Gloss=swim
+11	-ць	_	X	_	_	_	_	_	AlignBegin=26.959155847691257|AlignEnd=28.753071688022438|Gloss=cvb
+12	мада	мада-	V	_	_	_	_	_	AlignBegin=28.753071688022438|AlignEnd=30.35829456907807|Gloss=pass.across
+13	-в	_	X	_	_	_	_	_	AlignBegin=28.753071688022438|AlignEnd=30.35829456907807|Gloss=1sg.sg
+
+# sent_id = 8
+# text = Тарка пыявна ӈадимядм'.
+# text_ru = Я оказался на мысу, который находится на развилке реки.
+# text_en = I ended up on a headland at the fork of the river.
+1	тарка	тарка	N	_	_	_	_	_	AlignBegin=30.35829456907807|AlignEnd=30.792425303931495|Gloss=fork
+2	пыя	пыя	N	_	_	_	_	_	AlignBegin=30.792425303931495|AlignEnd=31.322116607079256|Gloss=end
+3	-вна	_	X	_	_	_	_	_	AlignBegin=30.792425303931495|AlignEnd=31.322116607079256|Gloss=prol
+4	ӈадимя	ӈадим-	V	_	_	_	_	_	AlignBegin=31.322116607079256|AlignEnd=32.142319720320266|Gloss=appear
+5	-дм'	_	X	_	_	_	_	_	AlignBegin=31.322116607079256|AlignEnd=32.142319720320266|Gloss=1sg
+
+# sent_id = 9
+# text = "Тарка' пыям мада""махадани ӈани' ӈохолырць яха' няби таркам' мадав."
+# text_ru = После того как я перешел мыс на развилке я снова переплыл другой рукав реки.
+# text_en = After crossing the headland at the fork, I swam back across the other branch of the river.
+1	тарка	тарка	N	_	_	_	_	_	AlignBegin=32.142319720320266|AlignEnd=32.779846156193294|Gloss=fork
+2	-'	_	X	_	_	_	_	_	AlignBegin=32.142319720320266|AlignEnd=32.779846156193294|Gloss=gen
+3	пыя	пыя	N	_	_	_	_	_	AlignBegin=32.779846156193294|AlignEnd=33.085614142841926|Gloss=end
+4	-м	_	X	_	_	_	_	_	AlignBegin=32.779846156193294|AlignEnd=33.085614142841926|Gloss=acc
+5	"мада	мада-	N	_	_	_	_	_	AlignBegin=33.085614142841926|AlignEnd=34.09210043222699|Gloss=pass.across
+6	-""ма	_	X	_	_	_	_	_	AlignBegin=33.085614142841926|AlignEnd=34.09210043222699|Gloss=pfv.an
+7	-хада	_	X	_	_	_	_	_	AlignBegin=33.085614142841926|AlignEnd=34.09210043222699|Gloss=abl
+8	-ни"	_	X	_	_	_	_	_	AlignBegin=33.085614142841926|AlignEnd=34.09210043222699|Gloss=obl.1sg
+9	ӈани'	ӈани'	Cnj	_	_	_	_	_	AlignBegin=34.09210043222699|AlignEnd=34.567739522569305|Gloss=again
+10	ӈохолыр	ӈохолыр-	Adv	_	_	_	_	_	AlignBegin=34.567739522569305|AlignEnd=35.141054497535485|Gloss=swim
+11	-ць	_	X	_	_	_	_	_	AlignBegin=34.567739522569305|AlignEnd=35.141054497535485|Gloss=cvb
+12	яха	яха	N	_	_	_	_	_	AlignBegin=35.141054497535485|AlignEnd=35.45106926177645|Gloss=river
+13	-'	_	X	_	_	_	_	_	AlignBegin=35.141054497535485|AlignEnd=35.45106926177645|Gloss=gen
+14	няби	няби	Pron	_	_	_	_	_	AlignBegin=35.45106926177645|AlignEnd=35.69313558453995|Gloss=other
+15	тарка	тарка	N	_	_	_	_	_	AlignBegin=35.69313558453995|AlignEnd=36.26220378191378|Gloss=fork
+16	-м'	_	X	_	_	_	_	_	AlignBegin=35.69313558453995|AlignEnd=36.26220378191378|Gloss=acc
+17	мада	мада-	V	_	_	_	_	_	AlignBegin=36.26220378191378|AlignEnd=37.04836743351878|Gloss=pass.across
+18	-в	_	X	_	_	_	_	_	AlignBegin=36.26220378191378|AlignEnd=37.04836743351878|Gloss=1sg.sg
+
+# sent_id = 10
+# text = "Яха' иканя халя"" танявы""."
+# text_ru = В реке были рыбы.
+# text_en = Apparently there were fish in the river.
+1	яха	яха	V	_	_	_	_	_	AlignBegin=37.04836743351878|AlignEnd=37.60089874423053|Gloss=river
+2	-'	_	X	_	_	_	_	_	AlignBegin=37.04836743351878|AlignEnd=37.60089874423053|Gloss=gen
+3	и	"и"""	V	_	_	_	_	_	AlignBegin=37.60089874423053|AlignEnd=37.97129338482952|Gloss=water
+4	-каня	_	X	_	_	_	_	_	AlignBegin=37.60089874423053|AlignEnd=37.97129338482952|Gloss=loc
+5	"халя	халя	V	_	_	_	_	_	AlignBegin=37.97129338482952|AlignEnd=38.37717493710268|Gloss=fish
+6	-"""	_	X	_	_	_	_	_	AlignBegin=37.97129338482952|AlignEnd=38.37717493710268|Gloss=pl
+7	"таня	таня-	V	_	_	_	_	_	AlignBegin=38.37717493710268|AlignEnd=39.61061136556229|Gloss=exist
+8	-вы	_	X	_	_	_	_	_	AlignBegin=38.37717493710268|AlignEnd=39.61061136556229|Gloss=infr
+9	-"""	_	X	_	_	_	_	_	AlignBegin=38.37717493710268|AlignEnd=39.61061136556229|Gloss=3pl
+
+# sent_id = 11
+# text = Тикахад маха' няку' мэхэя тамна тяха' яда нэкалӈав.
+# text_ru = После этого слегка повернув вправо, я пошел пешком дальше.
+# text_en = Then I turned slightly to the right and kept going.
+1	тикахад	тикахад	Adv	_	_	_	_	_	AlignBegin=39.61061136556229|AlignEnd=40.85614206180562|Gloss=then
+2	маха'ня	маха'ня	Adv	_	_	_	_	_	AlignBegin=40.85614206180562|AlignEnd=41.20312060851117|Gloss=to.the.right
+3	-ку'	_	X	_	_	_	_	_	AlignBegin=40.85614206180562|AlignEnd=41.20312060851117|Gloss=Adv
+4	мэ	мэ-	Adv	_	_	_	_	_	AlignBegin=41.56642755741462|AlignEnd=42.25630255027624|Gloss=take
+5	-хэя	_	X	_	_	_	_	_	AlignBegin=41.56642755741462|AlignEnd=42.25630255027624|Gloss=intens.cvb
+6	тамна	тамна	Adv	_	_	_	_	_	AlignBegin=42.25630255027624|AlignEnd=42.76656511896086|Gloss=even
+7	тяха'	тяха'	Adv	_	_	_	_	_	AlignBegin=42.76656511896086|AlignEnd=42.93393124148942|Gloss=further
+8	яда	яда	Adv	_	_	_	_	_	AlignBegin=42.93393124148942|AlignEnd=43.489096916218294|Gloss=on.foot
+9	нэкал	нэкал-	V	_	_	_	_	_	AlignBegin=43.489096916218294|AlignEnd=44.32641755751391|Gloss=pull
+10	-ӈа	_	X	_	_	_	_	_	AlignBegin=43.489096916218294|AlignEnd=44.32641755751391|Gloss=co
+11	-в	_	X	_	_	_	_	_	AlignBegin=43.489096916218294|AlignEnd=44.32641755751391|Gloss=1sg.sg
+
+# sent_id = 12
+# text = ӈоб' ядадм', ядадм'.
+# text_ru = Все иду, иду.
+# text_en = I'm still going, I'm still going.
+1	ӈоб'	ӈоб'	Adv	_	_	_	_	_	AlignBegin=44.32641755751391|AlignEnd=44.89322419758929|Gloss=once
+2	яда	яда-	V	_	_	_	_	_	AlignBegin=44.89322419758929|AlignEnd=45.60021018758726|Gloss=walk
+3	-дм'	_	X	_	_	_	_	_	AlignBegin=44.89322419758929|AlignEnd=45.60021018758726|Gloss=1sg
+4	яда	яда-	V	_	_	_	_	_	AlignBegin=45.60021018758726|AlignEnd=46.28033754854747|Gloss=walk
+5	-дм'	_	X	_	_	_	_	_	AlignBegin=45.60021018758726|AlignEnd=46.28033754854747|Gloss=1sg
+
+# sent_id = 13
+# text = "Нерни няна пирця харадм' манэ""ӈадм'."
+# text_ru = Впереди себя я увидел высокую башню(дом).
+# text_en = In front of me I saw a high house.
+1	нер	нерни'	Adp	_	_	_	_	_	AlignBegin=46.28033754854747|AlignEnd=47.02305227834422|Gloss=in.front.of
+2	-ни	_	X	_	_	_	_	_	AlignBegin=46.28033754854747|AlignEnd=47.02305227834422|Gloss=gen.1sg
+3	ня	няна	Adp	_	_	_	_	_	AlignBegin=47.02305227834422|AlignEnd=47.61642197102263|Gloss=1sg
+4	-на	_	X	_	_	_	_	_	AlignBegin=47.02305227834422|AlignEnd=47.61642197102263|Gloss=dat
+5	пирця	пирця	Adj	_	_	_	_	_	AlignBegin=47.61642197102263|AlignEnd=48.11767034155006|Gloss=tall
+6	харад	харад	N	_	_	_	_	_	AlignBegin=48.11767034155006|AlignEnd=48.59182420556249|Gloss=house
+7	-м'	_	X	_	_	_	_	_	AlignBegin=48.11767034155006|AlignEnd=48.59182420556249|Gloss=acc
+8	"манэ""	"манэ""-"	V	_	_	_	_	_	AlignBegin=48.59182420556249|AlignEnd=49.41040355360122|Gloss=see
+9	-ӈа	_	X	_	_	_	_	_	AlignBegin=48.59182420556249|AlignEnd=49.41040355360122|Gloss=co
+10	-дм'"	_	X	_	_	_	_	_	AlignBegin=48.59182420556249|AlignEnd=49.41040355360122|Gloss=1sg
+
+# sent_id = 14
+# text = Пирця харад' сидя сидеранда си.
+# text_ru = У башни два окна.
+# text_en = The tower has two windows.
+1	пирця	пирця	Adj	_	_	_	_	_	AlignBegin=49.41040355360122|AlignEnd=50.24054942665056|Gloss=tall
+2	харад	харад	N	_	_	_	_	_	AlignBegin=50.24054942665056|AlignEnd=50.75951588373962|Gloss=house
+3	-'	_	X	_	_	_	_	_	AlignBegin=50.24054942665056|AlignEnd=50.75951588373962|Gloss=gen
+4	сидя	сидя	Nu 	_	_	_	_	_	AlignBegin=50.75951588373962|AlignEnd=51.13056436513662|Gloss=two
+5	сидера	"сидер"""	N	_	_	_	_	_	AlignBegin=51.13056436513662|AlignEnd=51.6344883162231|Gloss=window
+6	-нда	_	X	_	_	_	_	_	AlignBegin=51.13056436513662|AlignEnd=51.6344883162231|Gloss=gen.3sg
+7	си	си	N	_	_	_	_	_	AlignBegin=51.6344883162231|AlignEnd=52.30668787624531|Gloss=hole
+
+# sent_id = 15
+# text = Танцянда таня, нёнда си таня.
+# text_ru = У нее есть лестница, у нее есть дверь.
+# text_en = It has a staircase, it has a door.
+1	танця	"танцие"""	N	_	_	_	_	_	AlignBegin=52.30668787624531|AlignEnd=53.23499795396552|Gloss=stairs
+2	-нда	_	X	_	_	_	_	_	AlignBegin=52.30668787624531|AlignEnd=53.23499795396552|Gloss=gen.3sg
+3	таня	таня-	V	_	_	_	_	_	AlignBegin=53.23499795396552|AlignEnd=53.973043988143246|Gloss=exist.3sg
+4	нё	нё	N	_	_	_	_	_	AlignBegin=53.973043988143246|AlignEnd=54.33935360069469|Gloss=door
+5	-нда	_	X	_	_	_	_	_	AlignBegin=53.973043988143246|AlignEnd=54.33935360069469|Gloss=gen.3sg
+6	си	си	N	_	_	_	_	_	AlignBegin=54.33935360069469|AlignEnd=54.51301149108946|Gloss=hole
+7	таня	таня-	V	_	_	_	_	_	AlignBegin=54.51301149108946|AlignEnd=55.441321568809656|Gloss=exist.3sg
+
+# sent_id = 16
+# text = "Махалэйда тю""у' ня' мятрев' саблюй."
+# text_ru = Ее крыша заострена вверх словно чум.
+# text_en = Its roof is pointed up like a chum (tent).
+1	махалэй	махалы	N	_	_	_	_	_	AlignBegin=55.441321568809656|AlignEnd=56.49918344095822|Gloss=roof
+2	-да	_	X	_	_	_	_	_	AlignBegin=55.441321568809656|AlignEnd=56.49918344095822|Gloss=3sg
+3	"тю""у'"	"тю""у'"	Adv	_	_	_	_	_	AlignBegin=56.49918344095822|AlignEnd=57.09041300805742|Gloss=upwards
+4	ня	ня'	Adp	_	_	_	_	_	AlignBegin=57.09041300805742|AlignEnd=57.37420320026503|Gloss=at
+5	-'	_	X	_	_	_	_	_	AlignBegin=57.09041300805742|AlignEnd=57.37420320026503|Gloss=abl
+6	мят	мя	N	_	_	_	_	_	AlignBegin=57.37420320026503|AlignEnd=58.124220136813726|Gloss=tent
+7	-рев'	_	X	_	_	_	_	_	AlignBegin=57.37420320026503|AlignEnd=58.124220136813726|Gloss=equ
+8	саблюй	саблюй	Adj	_	_	_	_	_	AlignBegin=58.124220136813726|AlignEnd=59.34424783308094|Gloss=peak
+
+# sent_id = 17
+# text = "ӈаво' пирка""на"" нёнда син' тэвыв'."
+# text_ru = В какой-то момент я дошел до ее двери.
+# text_en = At one point I reached the door.
+1	ӈаво'	ӈамгэ	Pron	_	_	_	_	_	AlignBegin=59.34424783308094|AlignEnd=61.168796518907534|Gloss=what.gen.pl
+2	"пир	пир	Adp	_	_	_	_	_	AlignBegin=61.168796518907534|AlignEnd=61.91758976321386|Gloss=until
+3	-ка""на"""	_	X	_	_	_	_	_	AlignBegin=61.168796518907534|AlignEnd=61.91758976321386|Gloss=pl.loc
+4	нё	нё	N	_	_	_	_	_	AlignBegin=61.91758976321386|AlignEnd=62.280441115080365|Gloss=door
+5	-нда	_	X	_	_	_	_	_	AlignBegin=61.91758976321386|AlignEnd=62.280441115080365|Gloss=gen.3sg
+6	си	си	N	_	_	_	_	_	AlignBegin=62.280441115080365|AlignEnd=62.54433300734691|Gloss=hole
+7	-н'	_	X	_	_	_	_	_	AlignBegin=62.280441115080365|AlignEnd=62.54433300734691|Gloss=dat
+8	тэвы	тэва-	V	_	_	_	_	_	AlignBegin=62.54433300734691|AlignEnd=63.154978988747395|Gloss=arrive
+9	-в'	_	X	_	_	_	_	_	AlignBegin=62.54433300734691|AlignEnd=63.154978988747395|Gloss=1sg.refl
+
+# sent_id = 18
+# text = "Танця' сер тю""у' танэяв'."
+# text_ru = Я поднялся вверх по лестнице.
+# text_en = I went up the stairs.
+1	танця'	"танцие"""	N	_	_	_	_	_	AlignBegin=63.154978988747395|AlignEnd=63.850672594762536|Gloss=stairs
+2	сер	сер'	Adp	_	_	_	_	_	AlignBegin=63.850672594762536|AlignEnd=64.15191912299646|Gloss=when
+3	"тю""у'"	"тю""у'"	Adv	_	_	_	_	_	AlignBegin=64.15191912299646|AlignEnd=64.76928855122897|Gloss=upwards
+4	танэ	тана-	V	_	_	_	_	_	AlignBegin=64.76928855122897|AlignEnd=65.30320161430365|Gloss=go.up
+5	-я	_	X	_	_	_	_	_	AlignBegin=64.76928855122897|AlignEnd=65.30320161430365|Gloss=co.refl
+6	-в'	_	X	_	_	_	_	_	AlignBegin=64.76928855122897|AlignEnd=65.30320161430365|Gloss=1sg.refl
+
+# sent_id = 19
+# text = Пирця харад' мюмня яда хаядм'.
+# text_ru = Я прошел по башне внутри.
+# text_en = I went inside the tower.
+1	пирця	пирця	Adj	_	_	_	_	_	AlignBegin=68.50229528782774|AlignEnd=69.16648414846055|Gloss=tall
+2	харад	харад	N	_	_	_	_	_	AlignBegin=69.16648414846055|AlignEnd=69.6632366938476|Gloss=house
+3	-'	_	X	_	_	_	_	_	AlignBegin=69.16648414846055|AlignEnd=69.6632366938476|Gloss=gen
+4	мюмня	мюмня	Adp	_	_	_	_	_	AlignBegin=69.6632366938476|AlignEnd=70.15528068430204|Gloss=through
+5	яда	яда	Adv	_	_	_	_	_	AlignBegin=70.15528068430204|AlignEnd=70.59082201556555|Gloss=on.foot
+6	хая	хая-	V	_	_	_	_	_	AlignBegin=70.59082201556555|AlignEnd=71.22205099167032|Gloss=go
+7	-дм'	_	X	_	_	_	_	_	AlignBegin=70.59082201556555|AlignEnd=71.22205099167032|Gloss=1sg
+
+# sent_id = 20
+# text = Няби хэвувнанда ӈани' несэй нё' сивна тарпыв'.
+# text_ru = С другой ее стороны я вышел в другую дверь.
+# text_en = On the other side I went out through another door.
+1	няби	няби	Pron	_	_	_	_	_	AlignBegin=71.22205099167032|AlignEnd=71.66349633720225|Gloss=other
+2	хэву	хэв	N	_	_	_	_	_	AlignBegin=71.66349633720225|AlignEnd=72.35743675225888|Gloss=side
+3	-вна	_	X	_	_	_	_	_	AlignBegin=71.66349633720225|AlignEnd=72.35743675225888|Gloss=pros
+4	-нда	_	X	_	_	_	_	_	AlignBegin=71.66349633720225|AlignEnd=72.35743675225888|Gloss=3sg
+5	ӈани'	ӈани'	Cnj	_	_	_	_	_	AlignBegin=72.35743675225888|AlignEnd=72.57553231127669|Gloss=again
+6	несэй	несэй	Adj	_	_	_	_	_	AlignBegin=72.57553231127669|AlignEnd=72.82584653242212|Gloss=new (other)
+7	нё	нё	N	_	_	_	_	_	AlignBegin=72.82584653242212|AlignEnd=72.98693984306027|Gloss=door
+8	-'	_	X	_	_	_	_	_	AlignBegin=72.82584653242212|AlignEnd=72.98693984306027|Gloss=gen
+9	си	си	N	_	_	_	_	_	AlignBegin=72.98693984306027|AlignEnd=73.31656154021216|Gloss=hole
+10	-вна	_	X	_	_	_	_	_	AlignBegin=72.98693984306027|AlignEnd=73.31656154021216|Gloss=prol
+11	тарпы	тарпа-	V	_	_	_	_	_	AlignBegin=73.31656154021216|AlignEnd=74.0851502242708|Gloss=go.out
+12	-в'	_	X	_	_	_	_	_	AlignBegin=73.31656154021216|AlignEnd=74.0851502242708|Gloss=1sg.refl
+
+# sent_id = 21
+# text = "Танця' сер' ха""мыв', тамна тяха' ядалъяв', сятаняю' сюртев."
+# text_ru = Я спустился по лестнице, стал идти дальше, повернул налево.
+# text_en = I went down the stairs, started walking and turned left.
+1	танця'	"танцие"""	N	_	_	_	_	_	AlignBegin=74.0851502242708|AlignEnd=74.59336108762523|Gloss=stairs
+2	сер'	сер'	Adp	_	_	_	_	_	AlignBegin=74.59336108762523|AlignEnd=74.90954543410611|Gloss=when
+3	"ха""мы	"ха""ма-"	V	_	_	_	_	_	AlignBegin=74.90954543410611|AlignEnd=75.59090043426914|Gloss=go.down
+4	-в'"	_	X	_	_	_	_	_	AlignBegin=74.90954543410611|AlignEnd=75.59090043426914|Gloss=1sg.refl
+5	тамна	тамна	Adv	_	_	_	_	_	AlignBegin=75.59090043426914|AlignEnd=76.74875860448083|Gloss=even
+6	тяха'	"тяха"""	Adv	_	_	_	_	_	AlignBegin=76.74875860448083|AlignEnd=76.86009112084734|Gloss=further
+7	ядал	ядал-	V	_	_	_	_	_	AlignBegin=76.86009112084734|AlignEnd=77.60379233017562|Gloss=go.forth
+8	-ъя	_	X	_	_	_	_	_	AlignBegin=76.86009112084734|AlignEnd=77.60379233017562|Gloss=co.refl
+9	-в'	_	X	_	_	_	_	_	AlignBegin=76.86009112084734|AlignEnd=77.60379233017562|Gloss=1sg.refl
+10	сятаня	сятаняю'	Adv	_	_	_	_	_	AlignBegin=77.60379233017562|AlignEnd=78.35194684015856|Gloss=to.the.left
+11	-ю'	_	X	_	_	_	_	_	AlignBegin=77.60379233017562|AlignEnd=78.35194684015856|Gloss=pol
+12	сюрте	сюрте-	V	_	_	_	_	_	AlignBegin=78.35194684015856|AlignEnd=79.2297816578498|Gloss=go.around
+13	-в	_	X	_	_	_	_	_	AlignBegin=78.35194684015856|AlignEnd=79.2297816578498|Gloss=1sg.sg
+
+# sent_id = 22
+# text = Сятаняю' ядадм'- ядадм', ӈоб' ядадм'.
+# text_ru = Влево иду-иду, все иду.
+# text_en = I turned left and walked on.
+1	сятаня	сятаняю'	Adv	_	_	_	_	_	AlignBegin=79.2297816578498|AlignEnd=80.53121396829754|Gloss=to.the.left
+2	-ю'	_	X	_	_	_	_	_	AlignBegin=79.2297816578498|AlignEnd=80.53121396829754|Gloss=pol
+3	яда	яда-	V	_	_	_	_	_	AlignBegin=80.53121396829754|AlignEnd=81.34233792752084|Gloss=walk
+4	-дм'	_	X	_	_	_	_	_	AlignBegin=80.53121396829754|AlignEnd=81.34233792752084|Gloss=1sg
+5	яда	яда-	V	_	_	_	_	_	AlignBegin=81.34233792752084|AlignEnd=81.92959167399853|Gloss=walk
+6	-дм'	_	X	_	_	_	_	_	AlignBegin=81.34233792752084|AlignEnd=81.92959167399853|Gloss=1sg
+7	ӈоб'	ӈоб'	Adv	_	_	_	_	_	AlignBegin=81.92959167399853|AlignEnd=82.27026373687232|Gloss=once
+8	яда	яда-	V	_	_	_	_	_	AlignBegin=82.27026373687232|AlignEnd=82.97795330916858|Gloss=walk
+9	-дм'	_	X	_	_	_	_	_	AlignBegin=82.27026373687232|AlignEnd=82.97795330916858|Gloss=1sg
+
+# sent_id = 23
+# text = "Ехэрана ӈани ӈопой марядм' манэ""ӈадм'."
+# text_ru = Увидел еще один незнакомый забор.
+# text_en = I saw another unfamiliar fence.
+1	ехэра	ехэра-	Adj	_	_	_	_	_	AlignBegin=82.97795330916858|AlignEnd=83.89283384185143|Gloss=not.know
+2	-на	_	X	_	_	_	_	_	AlignBegin=82.97795330916858|AlignEnd=83.89283384185143|Gloss=ptcp.cont
+3	ӈани	ӈани'	Adj	_	_	_	_	_	AlignBegin=83.89283384185143|AlignEnd=84.15675170539589|Gloss=another
+4	ӈопой	ӈопой	Num	_	_	_	_	_	AlignBegin=84.15675170539589|AlignEnd=84.46247833940285|Gloss=one
+5	маря	"мар"""	N	_	_	_	_	_	AlignBegin=84.46247833940285|AlignEnd=85.29865374865265|Gloss=fence
+6	-д	_	X	_	_	_	_	_	AlignBegin=84.46247833940285|AlignEnd=85.29865374865265|Gloss=???
+7	-м'	_	X	_	_	_	_	_	AlignBegin=84.46247833940285|AlignEnd=85.29865374865265|Gloss=acc
+8	"манэ""	"манэ""-"	V	_	_	_	_	_	AlignBegin=85.29865374865265|AlignEnd=85.99665128456135|Gloss=see
+9	-ӈа	_	X	_	_	_	_	_	AlignBegin=85.29865374865265|AlignEnd=85.99665128456135|Gloss=co
+10	-дм'"	_	X	_	_	_	_	_	AlignBegin=85.29865374865265|AlignEnd=85.99665128456135|Gloss=1sg
+
+# sent_id = 24
+# text = "Маряд' тяхана тэхэ' танявэхэ""."
+# text_ru = За забором оказались два оленя.
+# text_en = Two deer appeared to be behind the fence.
+1	маря	"мар"""	N	_	_	_	_	_	AlignBegin=85.99665128456135|AlignEnd=86.73623733775601|Gloss=fence
+2	-д'	_	X	_	_	_	_	_	AlignBegin=85.99665128456135|AlignEnd=86.73623733775601|Gloss=gen.2sg
+3	тяхана	тяхана	Postp	_	_	_	_	_	AlignBegin=86.73623733775601|AlignEnd=87.36502133212164|Gloss=behind
+4	тэ	ты	N	_	_	_	_	_	AlignBegin=87.36502133212164|AlignEnd=87.85501967007323|Gloss=reindeer
+5	-хэ'	_	X	_	_	_	_	_	AlignBegin=87.36502133212164|AlignEnd=87.85501967007323|Gloss=du
+6	"таня	таня-	V	_	_	_	_	_	AlignBegin=87.85501967007323|AlignEnd=89.2687074829932|Gloss=exist
+7	-вэ	_	X	_	_	_	_	_	AlignBegin=87.85501967007323|AlignEnd=89.2687074829932|Gloss=infr
+8	-хэ"""	_	X	_	_	_	_	_	AlignBegin=87.85501967007323|AlignEnd=89.2687074829932|Gloss=3du
