@@ -1,0 +1,171 @@
+Yrk-tun Sentence	Yrk-tun Token	Yrk-tun Segmented	Yrk-tun Lemma	Morphologycal analysis	POS	notes	Rus-sentence-level translation	Eng-sentence-level translation
+<tl>Route description I</tl>							<tl>Route description I</tl>	
+Маряд' нё' сивня мятюдм', сятаняю' мэв, сюртев.							Я зашел в ворота забора, повернул влево.	I walked through the gate, turned left and walked on.
+	маряд'	маря-д'	"мар"""	fence-gen.2sg	N			
+	нё'	нё-'	нё	door-gen	N			
+	сивня	си-вня	си	hole-prol	N			
+	мятюдм'	мя-тю-дм'	мят_тю-	tent-step.in-1sg	V	tent-dat_step.in-1sg		
+	сятаняю'	сятаня-ю'	сятаня	to.the.left-pol	Adv			
+	мэв	мэ-в	мэ-	take-1sg.sg	V			
+	сюртев	сюрте-в	сюрте-	go.around-1sg.sg	V			
+								
+Таня' ядадм'.							Иду туда.	I'm going in that direction.
+	таня'	таня'	таня'	there	Adv			
+	ядадм'	яда-дм'	яда-	walk-1sg	V			
+								
+Яхам' пул' нимня мадав.							Я перешел реку через мост.	I crossed the river on the bridge. 
+	яхам'	яха-м'	яха	river-acc	N			
+	пул'	пул-'	пул	bridge-gen	N			
+	нимня	нимня	нимня	top.prol	Adp			
+	мадав	мада-в	мада-	pass.across-1sg.sg	V			
+								
+Тадтикахад тамна тяха' ядадм'.							Затем иду дальше.	Then I walked on.
+	тадтикахад	тадтикахад	тадтикахад	afterwards	Adv			
+	тамна	тамна	тамна	even	Adv			
+	тяха'	тяха'	"тяха"""	further	Adv			
+	ядадм'	яда-дм'	яда-	walk-1sg	V			
+								
+"Пям' манэ""ӈадм'."							Я увидел дерево.	I saw a tree.
+	пям'	пя-м'	пя	tree-acc	N			
+	"манэ""ӈадм'"	"манэ""-ӈа-дм'"	"манэ""-"	see-co-1sg	V			
+								
+Пям' сятаняӈы хэвувнада маха'няю яля' сер' сюртев.							Я обошел дерево вокруг слева на право, по ходу солнца.	I walked around the tree from left to right, following the course of the sun.
+	пям'	пя-м'	пя	tree-acc	N			
+	сятаняӈы	сятаня-ӈы	сятаня'	to.the.left-adj	Adj			
+	хэвувнада	хэву-вна-да	хэв	side-pros-3sg	N			
+	маха'няю	маха'ня-ю	маха'ня'	to.the.right-pol	Adv			
+	яля'	яля-'	яля	sun-gen	N			
+	сер'	сер'	сер'	when	Adp			
+	сюртев	сюрте-в	сюрте-	go.around-1sg.sg	V			
+								
+Тикы' пуд яхам' таркахаюта нямна ӈохолырць мадав.							После я переплыл реку там, где находится его развилка.	Then I crossed the river by swimming along where it forks.
+	тикы'	тикы-'	тикы	that-gen	Dem			
+	пуд	пуд	пуд	after	Adp			
+	яхам'	яха-м'	яха	river-acc	N			
+	таркахаюта	тарка-хаю-та	тарка	fork-du-gen.3sg	N			
+	нямна	нямна	нямна	along	Adp			
+	ӈохолырць	ӈохолыр-ць	ӈохолыр-	swim-cvb	Adv	CVB		
+	мадав	мада-в	мада-	pass.across-1sg.sg	V			
+								
+Тарка пыявна ӈадимядм'.							Я оказался на мысу, который находится на развилке реки.	I ended up on a headland at the fork of the river.
+	тарка	тарка	тарка	fork	N			
+	пыявна	пыя-вна	пыя	end-prol	N			
+	ӈадимядм'	ӈадимя-дм'	ӈадим-	appear-1sg	V			
+								
+"Тарка' пыям мада""махадани ӈани' ӈохолырць яха' няби таркам' мадав."							После того как я перешел мыс на развилке я снова переплыл другой рукав реки.	After crossing the headland at the fork, I swam back across the other branch of the river.
+	тарка'	тарка-'	тарка	fork-gen	N			
+	пыям	пыя-м	пыя	end-acc	N			
+	"мада""махадани"	"мада-""ма-хада-ни"	мада-	pass.across-pfv.an-abl-obl.1sg	N	AN		
+	ӈани'	ӈани'	ӈани'	again	Cnj			
+	ӈохолырць	ӈохолыр-ць	ӈохолыр-	swim-cvb	Adv	CVB		
+	яха'	яха-'	яха	river-gen	N			
+	няби	няби	няби	other	Pron			
+	таркам'	тарка-м'	тарка	fork-acc	N			
+	мадав	мада-в	мада-	pass.across-1sg.sg	V			
+								
+"Яха' иканя халя"" танявы""."							В реке были рыбы.	Apparently there were fish in the river.
+	яха'	яха-'	яха	river-gen	V			
+	иканя	и-каня	"и"""	water-loc	V			
+	"халя"""	"халя-"""	халя	fish-pl	V			
+	"танявы"""	"таня-вы-"""	таня-	exist-infr-3pl	V			
+								
+Тикахад маха' няку' мэхэя тамна тяха' яда нэкалӈав.							После этого слегка повернув вправо, я пошел пешком дальше.	Then I turned slightly to the right and kept going.
+	тикахад	тикахад	тикахад	then	Adv			
+	маха'няку'	маха'ня-ку'	маха'ня	to.the.right-Adv	Adv	degree.adv		
+	мэхэя	мэ-хэя	мэ-	take-intens.cvb	Adv	CVB		
+	тамна	тамна	тамна	even	Adv			
+	тяха'	тяха'	тяха'	further	Adv			
+	яда	яда	яда	on.foot	Adv			
+	нэкалӈав	нэкал-ӈа-в	нэкал-	pull-co-1sg.sg	V			
+								
+ӈоб' ядадм', ядадм'.							Все иду, иду.	I'm still going, I'm still going.
+	ӈоб'	ӈоб'	ӈоб'	once	Adv			
+	ядадм'	яда-дм'	яда-	walk-1sg	V			
+	ядадм'	яда-дм'	яда-	walk-1sg	V			
+								
+"Нерни няна пирця харадм' манэ""ӈадм'."							Впереди себя я увидел высокую башню(дом).	In front of me I saw a high house.
+	нерни	нер-ни	нерни'	in.front.of-gen.1sg	Adp			
+	няна	ня-на	няна	1sg-dat	Adp	Pron?		
+	пирця	пирця	пирця	tall	Adj			
+	харадм'	харад-м'	харад	house-acc	N			
+	"манэ""ӈадм'"	"манэ""-ӈа-дм'"	"манэ""-"	see-co-1sg	V			
+								
+Пирця харад' сидя сидеранда си.							У башни два окна.	The tower has two windows.
+	пирця	пирця	пирця	tall	Adj			
+	харад'	харад-'	харад	house-gen	N			
+	сидя	сидя	сидя	two	Nu 			
+	сидеранда	сидера-нда	"сидер"""	window-gen.3sg	N			
+	си	си	си	hole	N			
+								
+Танцянда таня, нёнда си таня.							У нее есть лестница, у нее есть дверь.	It has a staircase, it has a door.
+	танцянда	танця-нда	"танцие"""	stairs-gen.3sg	N			
+	таня	таня	таня-	exist.3sg	V			
+	нёнда	нё-нда	нё	door-gen.3sg	N			
+	си	си	си	hole	N			
+	таня	таня	таня-	exist.3sg	V			
+								
+"Махалэйда тю""у' ня' мятрев' саблюй."							Ее крыша заострена вверх словно чум.	Its roof is pointed up like a chum (tent).
+	махалэйда	махалэй-да	махалы	roof-3sg	N			
+	"тю""у'"	"тю""у'"	"тю""у'"	upwards	Adv			
+	ня'	ня-'	ня'	at-abl	Adp	Pron?		
+	мятрев'	мят-рев'	мя	tent-equ	N			
+	саблюй	саблюй	саблюй	peak	Adj			
+								
+"ӈаво' пирка""на"" нёнда син' тэвыв'."							В какой-то момент я дошел до ее двери.	At one point I reached the door.
+	ӈаво'	ӈаво'	ӈамгэ	what.gen.pl	Pron			
+	"пирка""на"""	"пир-ка""на"""	пир	until-pl.loc	Adp			
+	нёнда	нё-нда	нё	door-gen.3sg	N			
+	син'	си-н'	си	hole-dat	N			
+	тэвыв'	тэвы-в'	тэва-	arrive-1sg.refl	V			
+								
+"Танця' сер тю""у' танэяв'."							Я поднялся вверх по лестнице.	I went up the stairs.
+	танця'	танця'	"танцие"""	stairs	N			
+	сер	сер	сер'	when	Adp			
+	"тю""у'"	"тю""у'"	"тю""у'"	upwards	Adv			
+	танэяв'	танэ-я-в'	тана-	go.up-co.refl-1sg.refl	V			
+								
+Пирця харад' мюмня яда хаядм'.							Я прошел по башне внутри.	I went inside the tower.
+	пирця	пирця	пирця	tall	Adj			
+	харад'	харад-'	харад	house-gen	N			
+	мюмня	мюмня	мюмня	through	Adp			
+	яда	яда	яда	on.foot	Adv			
+	хаядм'	хая-дм'	хая-	go-1sg	V			
+								
+Няби хэвувнанда ӈани' несэй нё' сивна тарпыв'.							С другой ее стороны я вышел в другую дверь.	On the other side I went out through another door.
+	няби	няби	няби	other	Pron			
+	хэвувнанда	хэву-вна-нда	хэв	side-pros-3sg	N			
+	ӈани'	ӈани'	ӈани'	again	Cnj			
+	несэй	несэй	несэй	new (other)	Adj			
+	нё'	нё-'	нё	door-gen	N			
+	сивна	си-вна	си	hole-prol	N			
+	тарпыв'	тарпы-в'	тарпа-	go.out-1sg.refl	V			
+								
+"Танця' сер' ха""мыв', тамна тяха' ядалъяв', сятаняю' сюртев."							Я спустился по лестнице, стал идти дальше, повернул налево.	I went down the stairs, started walking and turned left.
+	танця'	танця'	"танцие"""	stairs	N			
+	сер'	сер'	сер'	when	Adp			
+	"ха""мыв'"	"ха""мы-в'"	"ха""ма-"	go.down-1sg.refl	V			
+	тамна	тамна	тамна	even	Adv			
+	тяха'	тяха'	"тяха"""	further	Adv			
+	ядалъяв'	ядал-ъя-в'	ядал-	go.forth-co.refl-1sg.refl	V			
+	сятаняю'	сятаня-ю'	сятаняю'	to.the.left-pol	Adv			
+	сюртев	сюрте-в	сюрте-	go.around-1sg.sg	V			
+								
+Сятаняю' ядадм'- ядадм', ӈоб' ядадм'.							Влево иду-иду, все иду.	I turned left and walked on.
+	сятаняю'	сятаня-ю'	сятаняю'	to.the.left-pol	Adv			
+	ядадм'-	яда-дм'	яда-	walk-1sg	V			
+	ядадм'	яда-дм'	яда-	walk-1sg	V			
+	ӈоб'	ӈоб'	ӈоб'	once	Adv			
+	ядадм'	яда-дм'	яда-	walk-1sg	V			
+								
+"Ехэрана ӈани ӈопой марядм' манэ""ӈадм'."							Увидел еще один незнакомый забор.	I saw another unfamiliar fence.
+	ехэрана	ехэра-на	ехэра-	not.know-ptcp.cont	Adj	PTCP		
+	ӈани	ӈани	ӈани'	another	Adj			
+	ӈопой	ӈопой	ӈопой	one	Num			
+	марядм'	маря-д-м'	"мар"""	fence-???-acc	N			
+	"манэ""ӈадм'"	"манэ""-ӈа-дм'"	"манэ""-"	see-co-1sg	V			
+								
+"Маряд' тяхана тэхэ' танявэхэ""."							За забором оказались два оленя.	Two deer appeared to be behind the fence.
+	маряд'	маря-д'	"мар"""	fence-gen.2sg	N			
+	тяхана	тяхана	тяхана	behind	Postp			
+	тэхэ'	тэ-хэ'	ты	reindeer-du	N			
+	"танявэхэ"""	"таня-вэ-хэ"""	таня-	exist-infr-3du	V			
