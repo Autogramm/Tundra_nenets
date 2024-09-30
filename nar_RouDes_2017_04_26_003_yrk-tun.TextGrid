@@ -1,0 +1,290 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 76.47492063492064 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "yrk-word" 
+        xmin = 0 
+        xmax = 76.47492063492064 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3736387920801254 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3736387920801254 
+            xmax = 6.810492025593832 
+            text = "" 
+        intervals [3]:
+            xmin = 6.810492025593832 
+            xmax = 14.351902980857535 
+            text = "" 
+        intervals [4]:
+            xmin = 14.351902980857535 
+            xmax = 19.07784957204422 
+            text = "" 
+        intervals [5]:
+            xmin = 19.07784957204422 
+            xmax = 22.758553644830677 
+            text = "" 
+        intervals [6]:
+            xmin = 22.758553644830677 
+            xmax = 25.90359780121518 
+            text = "" 
+        intervals [7]:
+            xmin = 25.90359780121518 
+            xmax = 28.13444373286999 
+            text = "" 
+        intervals [8]:
+            xmin = 28.13444373286999 
+            xmax = 31.746462031094204 
+            text = "" 
+        intervals [9]:
+            xmin = 31.746462031094204 
+            xmax = 37.693292573228725 
+            text = "" 
+        intervals [10]:
+            xmin = 37.693292573228725 
+            xmax = 39.540853734047204 
+            text = "" 
+        intervals [11]:
+            xmin = 39.540853734047204 
+            xmax = 42.07089602135617 
+            text = "" 
+        intervals [12]:
+            xmin = 42.07089602135617 
+            xmax = 44.10625059762182 
+            text = "<pause>" 
+        intervals [13]:
+            xmin = 44.10625059762182 
+            xmax = 46.535570377817294 
+            text = "" 
+        intervals [14]:
+            xmin = 46.535570377817294 
+            xmax = 50.039937344673504 
+            text = "" 
+        intervals [15]:
+            xmin = 50.039937344673504 
+            xmax = 54.19397415775655 
+            text = "" 
+        intervals [16]:
+            xmin = 54.19397415775655 
+            xmax = 55.73309897543494 
+            text = "" 
+        intervals [17]:
+            xmin = 55.73309897543494 
+            xmax = 62.75464366495128 
+            text = "" 
+        intervals [18]:
+            xmin = 62.75464366495128 
+            xmax = 67.59638757769106 
+            text = "" 
+        intervals [19]:
+            xmin = 67.59638757769106 
+            xmax = 71.8896154775718 
+            text = "" 
+        intervals [20]:
+            xmin = 71.8896154775718 
+            xmax = 73.70429933204284 
+            text = "" 
+        intervals [21]:
+            xmin = 73.70429933204284 
+            xmax = 76.2371567991492 
+            text = "" 
+        intervals [22]:
+            xmin = 76.2371567991492 
+            xmax = 76.47492063492064 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "yrk" 
+        xmin = 0 
+        xmax = 76.47492063492064 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3736387920801254 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3736387920801254 
+            xmax = 6.810492025593832 
+            text = "Сэв""ни ӈадимб' яха' тарка' пыяхана мэвэдм'." 
+        intervals [3]:
+            xmin = 6.810492025593832 
+            xmax = 14.351902980857535 
+            text = "Яха' тарка' пыяхад тодо' яха"" сырӈадм': сятаня' сырӈадм', маханя' сырӈадм'." 
+        intervals [4]:
+            xmin = 14.351902980857535 
+            xmax = 19.07784957204422 
+            text = "Маханяӈэюм' таркамда ӈохолё мада таслав." 
+        intervals [5]:
+            xmin = 19.07784957204422 
+            xmax = 22.758553644830677 
+            text = "ӈохолё мадав, яда нэкалӈав." 
+        intervals [6]:
+            xmin = 22.758553644830677 
+            xmax = 25.90359780121518 
+            text = "Ядадм', ядадм', ядадм'." 
+        intervals [7]:
+            xmin = 25.90359780121518 
+            xmax = 28.13444373286999 
+            text = "ӈоб' ядадм', ӈоб' ядадм'." 
+        intervals [8]:
+            xmin = 28.13444373286999 
+            xmax = 31.746462031094204 
+            text = "Нерни няна пирця махалэйтана харадм' манэ""ӈадм'." 
+        intervals [9]:
+            xmin = 31.746462031094204 
+            xmax = 37.693292573228725 
+            text = "Маханяӈы хэвувнанда хаяма', ядувнанда — харданда пя ядувна тю""у' танэйв""." 
+        intervals [10]:
+            xmin = 37.693292573228725 
+            xmax = 39.540853734047204 
+            text = "Махалэянда ни' танэйв""." 
+        intervals [11]:
+            xmin = 39.540853734047204 
+            xmax = 42.07089602135617 
+            text = "Махалэянда нид я""амна сырӈадм'." 
+        intervals [12]:
+            xmin = 42.07089602135617 
+            xmax = 44.10625059762182 
+            text = "<pause>" 
+        intervals [13]:
+            xmin = 44.10625059762182 
+            xmax = 46.535570377817294 
+            text = "Тадтикахад таси' ха""мыв""." 
+        intervals [14]:
+            xmin = 46.535570377817294 
+            xmax = 50.039937344673504 
+            text = "Таси' ха""ам""махадани нэкалӈав тамна тяха нэкалӈав." 
+        intervals [15]:
+            xmin = 50.039937344673504 
+            xmax = 54.19397415775655 
+            text = "ӈохолырць яхам' пул' ӈыламна мадав." 
+        intervals [16]:
+            xmin = 54.19397415775655 
+            xmax = 55.73309897543494 
+            text = "Таханяю' тэвыв'." 
+        intervals [17]:
+            xmin = 55.73309897543494 
+            xmax = 62.75464366495128 
+            text = "Тарем' пэрӈава, яха' варувна, яха' лаӈг' сятаняюмна ӈоб' яда нэкалӈав." 
+        intervals [18]:
+            xmin = 62.75464366495128 
+            xmax = 67.59638757769106 
+            text = "Таняна ӈано яӈговы, ӈано яха' тяханяна ӈэвы." 
+        intervals [19]:
+            xmin = 67.59638757769106 
+            xmax = 71.8896154775718 
+            text = "Яхам' ӈохолырць ӈано' няю' мадав." 
+        intervals [20]:
+            xmin = 71.8896154775718 
+            xmax = 73.70429933204284 
+            text = "" 
+        intervals [21]:
+            xmin = 73.70429933204284 
+            xmax = 76.2371567991492 
+            text = "ӈаном' манэ""ӈава ӈаноход тамна тяха ядалъяв'." 
+        intervals [22]:
+            xmin = 76.2371567991492 
+            xmax = 76.47492063492064 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "eng" 
+        xmin = 0 
+        xmax = 76.47492063492064 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3736387920801254 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3736387920801254 
+            xmax = 6.810492025593832 
+            text = "When I woke up I was on a headland, at a fork in the river." 
+        intervals [3]:
+            xmin = 6.810492025593832 
+            xmax = 14.351902980857535 
+            text = "From the headland at the fork I looked around: I looked left, I looked right." 
+        intervals [4]:
+            xmin = 14.351902980857535 
+            xmax = 19.07784957204422 
+            text = "I decided to swim across on the right arm of the river." 
+        intervals [5]:
+            xmin = 19.07784957204422 
+            xmax = 22.758553644830677 
+            text = "I swam across and continued on foot." 
+        intervals [6]:
+            xmin = 22.758553644830677 
+            xmax = 25.90359780121518 
+            text = "I'm walking, I'm walking, I'm walking." 
+        intervals [7]:
+            xmin = 25.90359780121518 
+            xmax = 28.13444373286999 
+            text = "I'm still going, I'm still going." 
+        intervals [8]:
+            xmin = 28.13444373286999 
+            xmax = 31.746462031094204 
+            text = "I saw a tall tower with a roof in front of me." 
+        intervals [9]:
+            xmin = 31.746462031094204 
+            xmax = 37.693292573228725 
+            text = "I went to it from the right and climbed up its wall." 
+        intervals [10]:
+            xmin = 37.693292573228725 
+            xmax = 39.540853734047204 
+            text = "I climbed up to its roof." 
+        intervals [11]:
+            xmin = 39.540853734047204 
+            xmax = 42.07089602135617 
+            text = "I looked around from its roof." 
+        intervals [12]:
+            xmin = 42.07089602135617 
+            xmax = 44.10625059762182 
+            text = "<pause>" 
+        intervals [13]:
+            xmin = 44.10625059762182 
+            xmax = 46.535570377817294 
+            text = "Then I went down." 
+        intervals [14]:
+            xmin = 46.535570377817294 
+            xmax = 50.039937344673504 
+            text = "" 
+        intervals [15]:
+            xmin = 50.039937344673504 
+            xmax = 54.19397415775655 
+            text = "I crossed the river by swimming under the bridge." 
+        intervals [16]:
+            xmin = 54.19397415775655 
+            xmax = 55.73309897543494 
+            text = "I got there." 
+        intervals [17]:
+            xmin = 55.73309897543494 
+            xmax = 62.75464366495128 
+            text = "I'm moving in a direction where I'm going so that I'm walking along the riverbank to the left of the riverbank." 
+        intervals [18]:
+            xmin = 62.75464366495128 
+            xmax = 67.59638757769106 
+            text = "There was no boat; the boat was on the other side of the river." 
+        intervals [19]:
+            xmin = 67.59638757769106 
+            xmax = 71.8896154775718 
+            text = "I swam across the river to the side of the boat." 
+        intervals [20]:
+            xmin = 71.8896154775718 
+            xmax = 73.70429933204284 
+            text = "" 
+        intervals [21]:
+            xmin = 73.70429933204284 
+            xmax = 76.2371567991492 
+            text = "I looked at the boat and then I walked away from the boat." 
+        intervals [22]:
+            xmin = 76.2371567991492 
+            xmax = 76.47492063492064 
+            text = "" 
