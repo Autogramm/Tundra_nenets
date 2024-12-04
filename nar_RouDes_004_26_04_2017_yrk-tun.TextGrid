@@ -1,0 +1,1032 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 80.17873015873016 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "yrk-word" 
+        xmin = 0 
+        xmax = 80.17873015873016 
+        intervals: size = 155 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22207643638016134 
+            text = "я" 
+        intervals [2]:
+            xmin = 0.22207643638016134 
+            xmax = 0.5162497939022767 
+            text = "хой'" 
+        intervals [3]:
+            xmin = 0.5162497939022767 
+            xmax = 0.7574035346616851 
+            text = "ниня" 
+        intervals [4]:
+            xmin = 0.7574035346616851 
+            xmax = 1.2157666731263763 
+            text = "нува""" 
+        intervals [5]:
+            xmin = 1.2157666731263763 
+            xmax = 1.6594602287469886 
+            text = "<s_n>" 
+        intervals [6]:
+            xmin = 1.6594602287469886 
+            xmax = 1.9687311638036402 
+            text = "я'" 
+        intervals [7]:
+            xmin = 1.9687311638036402 
+            xmax = 2.3331424517641377 
+            text = "хой" 
+        intervals [8]:
+            xmin = 2.3331424517641377 
+            xmax = 2.5987755884093353 
+            text = "нид" 
+        intervals [9]:
+            xmin = 2.5987755884093353 
+            xmax = 3.1407205807608447 
+            text = "нерня'" 
+        intervals [10]:
+            xmin = 3.1407205807608447 
+            xmax = 3.6586384552248483 
+            text = "сырӈава""" 
+        intervals [11]:
+            xmin = 3.6586384552248483 
+            xmax = 4.233954444642337 
+            text = "<b_p>" 
+        intervals [12]:
+            xmin = 4.233954444642337 
+            xmax = 4.535638499259042 
+            text = "яха'" 
+        intervals [13]:
+            xmin = 4.535638499259042 
+            xmax = 5.042325860046657 
+            text = "хэвхана " 
+        intervals [14]:
+            xmin = 5.042325860046657 
+            xmax = 5.3974935805242765 
+            text = "ӈаном'" 
+        intervals [15]:
+            xmin = 5.3974935805242765 
+            xmax = 6.185918053703498 
+            text = "манэ""ӈава""" 
+        intervals [16]:
+            xmin = 6.185918053703498 
+            xmax = 6.537715049647391 
+            text = "<s_p>" 
+        intervals [17]:
+            xmin = 6.537715049647391 
+            xmax = 6.748472109589879 
+            text = "ӈано'" 
+        intervals [18]:
+            xmin = 6.748472109589879 
+            xmax = 7.087184112376954 
+            text = "ня'" 
+        intervals [19]:
+            xmin = 7.087184112376954 
+            xmax = 7.4502555400220025 
+            text = "яда" 
+        intervals [20]:
+            xmin = 7.4502555400220025 
+            xmax = 8.083600586329341 
+            text = "нэкалӈава""" 
+        intervals [21]:
+            xmin = 8.083600586329341 
+            xmax = 8.767984427577199 
+            text = "<b_p>" 
+        intervals [22]:
+            xmin = 8.767984427577199 
+            xmax = 9.244442718486416 
+            text = "ӈанон'" 
+        intervals [23]:
+            xmin = 9.244442718486416 
+            xmax = 9.7043110859419 
+            text = "тэвына""" 
+        intervals [24]:
+            xmin = 9.7043110859419 
+            xmax = 10.273114885433738 
+            text = "<b_p>" 
+        intervals [25]:
+            xmin = 10.273114885433738 
+            xmax = 10.602065249264625 
+            text = "ӈаном'" 
+        intervals [26]:
+            xmin = 10.602065249264625 
+            xmax = 10.894618231127753 
+            text = "ит'" 
+        intervals [27]:
+            xmin = 10.894618231127753 
+            xmax = 11.5361281818834 
+            text = "нэкалӈава""" 
+        intervals [28]:
+            xmin = 11.5361281818834 
+            xmax = 12.051421854974242 
+            text = "<s_p>" 
+        intervals [29]:
+            xmin = 12.051421854974242 
+            xmax = 12.6257681316903 
+            text = "лабята" 
+        intervals [30]:
+            xmin = 12.6257681316903 
+            xmax = 13.010623583595969 
+            text = "<s_p>" 
+        intervals [31]:
+            xmin = 13.010623583595969 
+            xmax = 13.479919894147606 
+            text = "яхам'" 
+        intervals [32]:
+            xmin = 13.479919894147606 
+            xmax = 13.88304597051782 
+            text = "тяханяю'" 
+        intervals [33]:
+            xmin = 13.88304597051782 
+            xmax = 14.256126248624016 
+            text = "мадава""" 
+        intervals [34]:
+            xmin = 14.256126248624016 
+            xmax = 15.276419865011633 
+            text = "<b_p>" 
+        intervals [35]:
+            xmin = 15.276419865011633 
+            xmax = 15.579103097579429 
+            text = "ӈанова""" 
+        intervals [36]:
+            xmin = 15.579103097579429 
+            xmax = 15.768132988461355 
+            text = "яха' " 
+        intervals [37]:
+            xmin = 15.768132988461355 
+            xmax = 16.170416779195634 
+            text = "тиркана" 
+        intervals [38]:
+            xmin = 16.170416779195634 
+            xmax = 16.612055652186797 
+            text = "хаева""" 
+        intervals [39]:
+            xmin = 16.612055652186797 
+            xmax = 18.132500825776425 
+            text = "<b_p>" 
+        intervals [40]:
+            xmin = 18.132500825776425 
+            xmax = 18.509321535374212 
+            text = "яха'" 
+        intervals [41]:
+            xmin = 18.509321535374212 
+            xmax = 18.9329110244273 
+            text = "лаӈг' " 
+        intervals [42]:
+            xmin = 18.9329110244273 
+            xmax = 19.436982284190968 
+            text = "маханяӈы" 
+        intervals [43]:
+            xmin = 19.436982284190968 
+            xmax = 20.169443981960406 
+            text = "тирмананда" 
+        intervals [44]:
+            xmin = 20.169443981960406 
+            xmax = 20.482394948400426 
+            text = "<b_p>" 
+        intervals [45]:
+            xmin = 20.482394948400426 
+            xmax = 21.013252513694983 
+            text = "таси' " 
+        intervals [46]:
+            xmin = 21.013252513694983 
+            xmax = 21.912458963383695 
+            text = "ха""аврава""" 
+        intervals [47]:
+            xmin = 21.912458963383695 
+            xmax = 23.079868702558905 
+            text = "<s_p>" 
+        intervals [48]:
+            xmin = 23.079868702558905 
+            xmax = 23.558909458540477 
+            text = "пул'" 
+        intervals [49]:
+            xmin = 23.558909458540477 
+            xmax = 23.98428192634323 
+            text = "ӈэсонд'" 
+        intervals [50]:
+            xmin = 23.98428192634323 
+            xmax = 24.35676416666786 
+            text = "тэвына""" 
+        intervals [51]:
+            xmin = 24.35676416666786 
+            xmax = 25.401064828363502 
+            text = "<b_p>" 
+        intervals [52]:
+            xmin = 25.401064828363502 
+            xmax = 25.615480969115804 
+            text = "пул'" 
+        intervals [53]:
+            xmin = 25.615480969115804 
+            xmax = 25.981505829858097 
+            text = "ӈэсонд' " 
+        intervals [54]:
+            xmin = 25.981505829858097 
+            xmax = 26.253384873053694 
+            text = "тарем'" 
+        intervals [55]:
+            xmin = 26.253384873053694 
+            xmax = 26.65284469703687 
+            text = "таслава""" 
+        intervals [56]:
+            xmin = 26.65284469703687 
+            xmax = 26.855822560890978 
+            text = "<s_p>" 
+        intervals [57]:
+            xmin = 26.855822560890978 
+            xmax = 27.098768597302886 
+            text = "пул'" 
+        intervals [58]:
+            xmin = 27.098768597302886 
+            xmax = 27.576082538893136 
+            text = "ӈыламна" 
+        intervals [59]:
+            xmin = 27.576082538893136 
+            xmax = 27.86058070462637 
+            text = "<b_p>" 
+        intervals [60]:
+            xmin = 27.86058070462637 
+            xmax = 28.20115397354699 
+            text = "ӈохолё" 
+        intervals [61]:
+            xmin = 28.20115397354699 
+            xmax = 28.51634363090806 
+            text = "хэсь" 
+        intervals [62]:
+            xmin = 28.51634363090806 
+            xmax = 28.898571785852784 
+            text = "тара" 
+        intervals [63]:
+            xmin = 28.898571785852784 
+            xmax = 29.132639175543186 
+            text = "<s_p>" 
+        intervals [64]:
+            xmin = 29.132639175543186 
+            xmax = 29.360831391151276 
+            text = "пул'" 
+        intervals [65]:
+            xmin = 29.360831391151276 
+            xmax = 29.649290267425112 
+            text = "ӈыламна" 
+        intervals [66]:
+            xmin = 29.649290267425112 
+            xmax = 29.98239228308407 
+            text = "ӈохолё " 
+        intervals [67]:
+            xmin = 29.98239228308407 
+            xmax = 30.343096302508222 
+            text = "хаява""" 
+        intervals [68]:
+            xmin = 30.343096302508222 
+            xmax = 31.8053447223216 
+            text = "<b_p>" 
+        intervals [69]:
+            xmin = 31.8053447223216 
+            xmax = 32.16606699692274 
+            text = "я'" 
+        intervals [70]:
+            xmin = 32.16606699692274 
+            xmax = 32.38821428285446 
+            text = "<m_l>тир'" 
+        intervals [71]:
+            xmin = 32.38821428285446 
+            xmax = 32.639945646403916 
+            text = "ни'" 
+        intervals [72]:
+            xmin = 32.639945646403916 
+            xmax = 33.774706426521824 
+            text = "тана""махадана""" 
+        intervals [73]:
+            xmin = 33.774706426521824 
+            xmax = 34.528006583525595 
+            text = "пирця" 
+        intervals [74]:
+            xmin = 34.528006583525595 
+            xmax = 35.218531727445715 
+            text = "<b_p>" 
+        intervals [75]:
+            xmin = 35.218531727445715 
+            xmax = 35.83747454218998 
+            text = "махалэй" 
+        intervals [76]:
+            xmin = 35.83747454218998 
+            xmax = 36.36089949655183 
+            text = "саблюй " 
+        intervals [77]:
+            xmin = 36.36089949655183 
+            xmax = 36.80116027307837 
+            text = "харадм'" 
+        intervals [78]:
+            xmin = 36.80116027307837 
+            xmax = 37.42721499479702 
+            text = "манэ""ӈава""" 
+        intervals [79]:
+            xmin = 37.42721499479702 
+            xmax = 37.64801612310476 
+            text = "<s_p>" 
+        intervals [80]:
+            xmin = 37.64801612310476 
+            xmax = 38.07161773807181 
+            text = "харад'" 
+        intervals [81]:
+            xmin = 38.07161773807181 
+            xmax = 38.26538259561536 
+            text = "ня'" 
+        intervals [82]:
+            xmin = 38.26538259561536 
+            xmax = 38.88174673642616 
+            text = "хаява""" 
+        intervals [83]:
+            xmin = 38.88174673642616 
+            xmax = 39.50105585820997 
+            text = "<b_p>" 
+        intervals [84]:
+            xmin = 39.50105585820997 
+            xmax = 39.76048775990331 
+            text = "нянда" 
+        intervals [85]:
+            xmin = 39.76048775990331 
+            xmax = 40.45703638176888 
+            text = "тэв""махадана""" 
+        intervals [86]:
+            xmin = 40.45703638176888 
+            xmax = 41.13869205943697 
+            text = "<b_p>" 
+        intervals [87]:
+            xmin = 41.13869205943697 
+            xmax = 41.821184860067675 
+            text = "ядувнанда" 
+        intervals [88]:
+            xmin = 41.821184860067675 
+            xmax = 42.34399033411494 
+            text = "харданда" 
+        intervals [89]:
+            xmin = 42.34399033411494 
+            xmax = 42.51189866154618 
+            text = "пя" 
+        intervals [90]:
+            xmin = 42.51189866154618 
+            xmax = 43.00608339796312 
+            text = "ядувна" 
+        intervals [91]:
+            xmin = 43.00608339796312 
+            xmax = 43.521256675308955 
+            text = "махалэянда" 
+        intervals [92]:
+            xmin = 43.521256675308955 
+            xmax = 43.71396964201981 
+            text = "ни'" 
+        intervals [93]:
+            xmin = 43.71396964201981 
+            xmax = 44.29342778718135 
+            text = "танэйна""" 
+        intervals [94]:
+            xmin = 44.29342778718135 
+            xmax = 44.68876852477671 
+            text = "<s_p>" 
+        intervals [95]:
+            xmin = 44.68876852477671 
+            xmax = 45.18418472782399 
+            text = "махалэянда" 
+        intervals [96]:
+            xmin = 45.18418472782399 
+            xmax = 45.390630147079946 
+            text = "нид" 
+        intervals [97]:
+            xmin = 45.390630147079946 
+            xmax = 45.81220876891915 
+            text = "я""амна" 
+        intervals [98]:
+            xmin = 45.81220876891915 
+            xmax = 46.59447609543804 
+            text = "сырӈава""" 
+        intervals [99]:
+            xmin = 46.59447609543804 
+            xmax = 47.06349774066051 
+            text = "<b_p>" 
+        intervals [100]:
+            xmin = 47.06349774066051 
+            xmax = 47.34896562520634 
+            text = "я""амна" 
+        intervals [101]:
+            xmin = 47.34896562520634 
+            xmax = 47.95823674729955 
+            text = "сыро""махадана"" " 
+        intervals [102]:
+            xmin = 47.95823674729955 
+            xmax = 48.23449047684285 
+            text = "ян'" 
+        intervals [103]:
+            xmin = 48.23449047684285 
+            xmax = 48.86174374937487 
+            text = "ха""мына""" 
+        intervals [104]:
+            xmin = 48.86174374937487 
+            xmax = 49.22384135299045 
+            text = "<s_p>" 
+        intervals [105]:
+            xmin = 49.22384135299045 
+            xmax = 49.645562978721124 
+            text = "танця'" 
+        intervals [106]:
+            xmin = 49.645562978721124 
+            xmax = 49.807731563115304 
+            text = "нимня" 
+        intervals [107]:
+            xmin = 49.807731563115304 
+            xmax = 50.374811469167284 
+            text = "ха""мына""" 
+        intervals [108]:
+            xmin = 50.374811469167284 
+            xmax = 50.60674187633982 
+            text = "<s_p>" 
+        intervals [109]:
+            xmin = 50.60674187633982 
+            xmax = 51.728615637469765 
+            text = "Тадтикахавахад" 
+        intervals [110]:
+            xmin = 51.728615637469765 
+            xmax = 54.649323432620854 
+            text = "<b_p>" 
+        intervals [111]:
+            xmin = 54.649323432620854 
+            xmax = 55.244281674500726 
+            text = "маха<a>" 
+        intervals [112]:
+            xmin = 55.244281674500726 
+            xmax = 55.683549188948874 
+            text = "харадм'" 
+        intervals [113]:
+            xmin = 55.683549188948874 
+            xmax = 56.00454103696974 
+            text = "<f_s>сюрт<u_l>" 
+        intervals [114]:
+            xmin = 56.00454103696974 
+            xmax = 56.50646326328476 
+            text = "сятаняӈы" 
+        intervals [115]:
+            xmin = 56.50646326328476 
+            xmax = 56.97239123839888 
+            text = "хэвувнанда" 
+        intervals [116]:
+            xmin = 56.97239123839888 
+            xmax = 57.79374324148986 
+            text = "<m_l>сюртехэя" 
+        intervals [117]:
+            xmin = 57.79374324148986 
+            xmax = 58.38042041612988 
+            text = "<b_p>" 
+        intervals [118]:
+            xmin = 58.38042041612988 
+            xmax = 58.58240182695235 
+            text = "хой'" 
+        intervals [119]:
+            xmin = 58.58240182695235 
+            xmax = 59.17994031637881 
+            text = "<u_w>ниӈа" 
+        intervals [120]:
+            xmin = 59.17994031637881 
+            xmax = 59.439133295086705 
+            text = "тир'" 
+        intervals [121]:
+            xmin = 59.439133295086705 
+            xmax = 59.68613628383185 
+            text = "сер'" 
+        intervals [122]:
+            xmin = 59.68613628383185 
+            xmax = 60.451384845050654 
+            text = "ялъяна""" 
+        intervals [123]:
+            xmin = 60.451384845050654 
+            xmax = 60.789136994109704 
+            text = "<s_p>" 
+        intervals [124]:
+            xmin = 60.789136994109704 
+            xmax = 61.40024023735239 
+            text = "маханякубта'" 
+        intervals [125]:
+            xmin = 61.40024023735239 
+            xmax = 61.72368800076642 
+            text = "мэва""" 
+        intervals [126]:
+            xmin = 61.72368800076642 
+            xmax = 62.10568633286321 
+            text = "ӈоб'" 
+        intervals [127]:
+            xmin = 62.10568633286321 
+            xmax = 62.59440692283476 
+            text = "ядава""" 
+        intervals [128]:
+            xmin = 62.59440692283476 
+            xmax = 63.1162611121264 
+            text = "ядава""" 
+        intervals [129]:
+            xmin = 63.1162611121264 
+            xmax = 63.71597925982031 
+            text = "<b_p>" 
+        intervals [130]:
+            xmin = 63.71597925982031 
+            xmax = 64.3773617697977 
+            text = "тадтикахад" 
+        intervals [131]:
+            xmin = 64.3773617697977 
+            xmax = 64.69600752721327 
+            text = "<b_p>" 
+        intervals [132]:
+            xmin = 64.69600752721327 
+            xmax = 65.02010022065303 
+            text = "яха'" 
+        intervals [133]:
+            xmin = 65.02010022065303 
+            xmax = 65.39730054032873 
+            text = "таркан'" 
+        intervals [134]:
+            xmin = 65.39730054032873 
+            xmax = 65.74318097786528 
+            text = "тэвына""" 
+        intervals [135]:
+            xmin = 65.74318097786528 
+            xmax = 66.25791643215197 
+            text = "<b_p>" 
+        intervals [136]:
+            xmin = 66.25791643215197 
+            xmax = 66.61247392539131 
+            text = "яха" 
+        intervals [137]:
+            xmin = 66.61247392539131 
+            xmax = 66.9739606716066 
+            text = "таркам'" 
+        intervals [138]:
+            xmin = 66.9739606716066 
+            xmax = 67.4417794501765 
+            text = "<b_p>" 
+        intervals [139]:
+            xmin = 67.4417794501765 
+            xmax = 67.79672667314193 
+            text = "тарканда " 
+        intervals [140]:
+            xmin = 67.79672667314193 
+            xmax = 68.05591390451767 
+            text = "пыя'" 
+        intervals [141]:
+            xmin = 68.05591390451767 
+            xmax = 68.51676728178391 
+            text = "няю'" 
+        intervals [142]:
+            xmin = 68.51676728178391 
+            xmax = 68.82279449362197 
+            text = "мада" 
+        intervals [143]:
+            xmin = 68.82279449362197 
+            xmax = 69.54933571610073 
+            text = "таслава""" 
+        intervals [144]:
+            xmin = 69.54933571610073 
+            xmax = 71.02487162557141 
+            text = "<b_p>" 
+        intervals [145]:
+            xmin = 71.02487162557141 
+            xmax = 71.51210257023783 
+            text = "идм'" 
+        intervals [146]:
+            xmin = 71.51210257023783 
+            xmax = 71.77094750134097 
+            text = "<b_p>" 
+        intervals [147]:
+            xmin = 71.77094750134097 
+            xmax = 72.14421637653658 
+            text = "ӈохолё" 
+        intervals [148]:
+            xmin = 72.14421637653658 
+            xmax = 72.64648719680946 
+            text = "мадава""" 
+        intervals [149]:
+            xmin = 72.64648719680946 
+            xmax = 72.95443667666554 
+            text = "<b_p>" 
+        intervals [150]:
+            xmin = 72.95443667666554 
+            xmax = 73.27875303541134 
+            text = "тарка'" 
+        intervals [151]:
+            xmin = 73.27875303541134 
+            xmax = 73.56649151425759 
+            text = "пыян'" 
+        intervals [152]:
+            xmin = 73.56649151425759 
+            xmax = 73.8434043952262 
+            text = "<s_p>" 
+        intervals [153]:
+            xmin = 73.8434043952262 
+            xmax = 74.72380676134922 
+            text = "нултава""" 
+        intervals [154]:
+            xmin = 74.72380676134922 
+            xmax = 75.4473796963264 
+            text = "<s_p>" 
+        intervals [155]:
+            xmin = 75.4473796963264 
+            xmax = 80.17873015873016 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "yrk" 
+        xmin = 0 
+        xmax = 80.17873015873016 
+        intervals: size = 48 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2157666731263763 
+            text = "Я хой' ниня нува""." 
+        intervals [2]:
+            xmin = 1.2157666731263763 
+            xmax = 1.6594602287469886 
+            text = "" 
+        intervals [3]:
+            xmin = 1.6594602287469886 
+            xmax = 3.6586384552248483 
+            text = "Я' хой нид нерня' сырӈава""." 
+        intervals [4]:
+            xmin = 3.6586384552248483 
+            xmax = 4.233954444642337 
+            text = "" 
+        intervals [5]:
+            xmin = 4.233954444642337 
+            xmax = 6.185918053703498 
+            text = "Яха' хэвхана ӈаном' манэ""ӈава""." 
+        intervals [6]:
+            xmin = 6.185918053703498 
+            xmax = 6.537715049647391 
+            text = "" 
+        intervals [7]:
+            xmin = 6.537715049647391 
+            xmax = 8.083600586329341 
+            text = "ӈано' ня' яда нэкалӈава""." 
+        intervals [8]:
+            xmin = 8.083600586329341 
+            xmax = 8.767984427577199 
+            text = "" 
+        intervals [9]:
+            xmin = 8.767984427577199 
+            xmax = 9.7043110859419 
+            text = "ӈанон' тэвына""." 
+        intervals [10]:
+            xmin = 9.7043110859419 
+            xmax = 10.273114885433738 
+            text = "" 
+        intervals [11]:
+            xmin = 10.273114885433738 
+            xmax = 11.5361281818834 
+            text = "ӈаном' ит' нэкалӈава""." 
+        intervals [12]:
+            xmin = 11.5361281818834 
+            xmax = 12.051421854974242 
+            text = "" 
+        intervals [13]:
+            xmin = 12.051421854974242 
+            xmax = 14.256126248624016 
+            text = "Лабята яхам' тяханяю' мадава""." 
+        intervals [14]:
+            xmin = 14.256126248624016 
+            xmax = 15.276419865011633 
+            text = "" 
+        intervals [15]:
+            xmin = 15.276419865011633 
+            xmax = 16.612055652186797 
+            text = "ӈанова"" яха' тиркана хаева""." 
+        intervals [16]:
+            xmin = 16.612055652186797 
+            xmax = 18.132500825776425 
+            text = "" 
+        intervals [17]:
+            xmin = 18.132500825776425 
+            xmax = 21.912458963383695 
+            text = "Яха' лаӈг' маханяӈы тирмананда таси' ха""аврава""." 
+        intervals [18]:
+            xmin = 21.912458963383695 
+            xmax = 23.079868702558905 
+            text = "" 
+        intervals [19]:
+            xmin = 23.079868702558905 
+            xmax = 24.35676416666786 
+            text = "Пул' ӈэсонд' тэвына""." 
+        intervals [20]:
+            xmin = 24.35676416666786 
+            xmax = 25.401064828363502 
+            text = "" 
+        intervals [21]:
+            xmin = 25.401064828363502 
+            xmax = 28.898571785852784 
+            text = "Пул' ӈэсонд' тарем' таслава"": пул' ӈыламна ӈохолё хэсь тара." 
+        intervals [22]:
+            xmin = 28.898571785852784 
+            xmax = 29.132639175543186 
+            text = "" 
+        intervals [23]:
+            xmin = 29.132639175543186 
+            xmax = 30.343096302508222 
+            text = "Пул' ӈыламна ӈохолё хаява""." 
+        intervals [24]:
+            xmin = 30.343096302508222 
+            xmax = 31.8053447223216 
+            text = "" 
+        intervals [25]:
+            xmin = 31.8053447223216 
+            xmax = 37.42721499479702 
+            text = "Я' тир' ни' тана""махадана"", пирця махалэй саблюй харадм' манэ""ӈава""." 
+        intervals [26]:
+            xmin = 37.42721499479702 
+            xmax = 37.64801612310476 
+            text = "" 
+        intervals [27]:
+            xmin = 37.64801612310476 
+            xmax = 44.29342778718135 
+            text = "Харад' ня' хаява"", нянда тэв""махадана"", ядувнанда, харданда пя ядувна махалэянда ни' танэйна""." 
+        intervals [28]:
+            xmin = 44.29342778718135 
+            xmax = 44.68876852477671 
+            text = "" 
+        intervals [29]:
+            xmin = 44.68876852477671 
+            xmax = 46.59447609543804 
+            text = "Махалэянда нид я""амна сырӈава""." 
+        intervals [30]:
+            xmin = 46.59447609543804 
+            xmax = 47.06349774066051 
+            text = "" 
+        intervals [31]:
+            xmin = 47.06349774066051 
+            xmax = 48.86174374937487 
+            text = "Я""амна сыро""махадана"" ян' ха""мына""." 
+        intervals [32]:
+            xmin = 48.86174374937487 
+            xmax = 49.22384135299045 
+            text = "" 
+        intervals [33]:
+            xmin = 49.22384135299045 
+            xmax = 50.374811469167284 
+            text = "Танця' нимня ха""мына""." 
+        intervals [34]:
+            xmin = 50.374811469167284 
+            xmax = 50.60674187633982 
+            text = "" 
+        intervals [35]:
+            xmin = 50.60674187633982 
+            xmax = 60.451384845050654 
+            text = "Тадтикахавахад маха<a> харадм' <f_s>сюрт<u_l> сятаняӈы хэвувнанда <m_l>сюртехэя, хой' <u_w>ниӈа тир' сер' ялъяна""." 
+        intervals [36]:
+            xmin = 60.451384845050654 
+            xmax = 60.789136994109704 
+            text = "" 
+        intervals [37]:
+            xmin = 60.789136994109704 
+            xmax = 63.1162611121264 
+            text = "Маханякубта' мэва"", ӈоб' ядава""-ядава""." 
+        intervals [38]:
+            xmin = 63.1162611121264 
+            xmax = 63.71597925982031 
+            text = "" 
+        intervals [39]:
+            xmin = 63.71597925982031 
+            xmax = 65.74318097786528 
+            text = "Тадтикахад яха' таркан' тэвына""." 
+        intervals [40]:
+            xmin = 65.74318097786528 
+            xmax = 66.25791643215197 
+            text = "" 
+        intervals [41]:
+            xmin = 66.25791643215197 
+            xmax = 69.54933571610073 
+            text = "Яха таркам' тарканда пыя' няю' мада таслава""." 
+        intervals [42]:
+            xmin = 69.54933571610073 
+            xmax = 71.02487162557141 
+            text = "" 
+        intervals [43]:
+            xmin = 71.02487162557141 
+            xmax = 72.64648719680946 
+            text = "Идм' ӈохолё мадава""." 
+        intervals [44]:
+            xmin = 72.64648719680946 
+            xmax = 72.95443667666554 
+            text = "" 
+        intervals [45]:
+            xmin = 72.95443667666554 
+            xmax = 73.27875303541134 
+            text = "" 
+        intervals [46]:
+            xmin = 73.27875303541134 
+            xmax = 74.72380676134922 
+            text = "Тарка' пыян' нултава""." 
+        intervals [47]:
+            xmin = 74.72380676134922 
+            xmax = 75.44271385192371 
+            text = "" 
+        intervals [48]:
+            xmin = 75.44271385192371 
+            xmax = 80.17873015873016 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "eng" 
+        xmin = 0 
+        xmax = 80.17873015873016 
+        intervals: size = 48 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2157666731263763 
+            text = "We are standing on a flat, high place.
+" 
+        intervals [2]:
+            xmin = 1.2157666731263763 
+            xmax = 1.6594602287469886 
+            text = "" 
+        intervals [3]:
+            xmin = 1.6594602287469886 
+            xmax = 3.6586384552248483 
+            text = "We look forward from a flat, high place.
+" 
+        intervals [4]:
+            xmin = 3.6586384552248483 
+            xmax = 4.233954444642337 
+            text = "" 
+        intervals [5]:
+            xmin = 4.233954444642337 
+            xmax = 6.185918053703498 
+            text = "We saw a boat near the river." 
+        intervals [6]:
+            xmin = 6.185918053703498 
+            xmax = 6.537715049647391 
+            text = "" 
+        intervals [7]:
+            xmin = 6.537715049647391 
+            xmax = 8.083600586329341 
+            text = "We walked towards the boat." 
+        intervals [8]:
+            xmin = 8.083600586329341 
+            xmax = 8.767984427577199 
+            text = "" 
+        intervals [9]:
+            xmin = 8.767984427577199 
+            xmax = 9.7043110859419 
+            text = "We got to the boat." 
+        intervals [10]:
+            xmin = 9.7043110859419 
+            xmax = 10.273114885433738 
+            text = "" 
+        intervals [11]:
+            xmin = 10.273114885433738 
+            xmax = 11.5361281818834 
+            text = "We pulled the boat into the water." 
+        intervals [12]:
+            xmin = 11.5361281818834 
+            xmax = 12.051421854974242 
+            text = "" 
+        intervals [13]:
+            xmin = 12.051421854974242 
+            xmax = 14.256126248624016 
+            text = "We paddled across the river to the other side." 
+        intervals [14]:
+            xmin = 14.256126248624016 
+            xmax = 15.276419865011633 
+            text = "" 
+        intervals [15]:
+            xmin = 15.276419865011633 
+            xmax = 16.612055652186797 
+            text = "" 
+        intervals [16]:
+            xmin = 16.612055652186797 
+            xmax = 18.132500825776425 
+            text = "" 
+        intervals [17]:
+            xmin = 18.132500825776425 
+            xmax = 21.912458963383695 
+            text = "We walked downstream along the right bank." 
+        intervals [18]:
+            xmin = 21.912458963383695 
+            xmax = 23.079868702558905 
+            text = "" 
+        intervals [19]:
+            xmin = 23.079868702558905 
+            xmax = 24.35676416666786 
+            text = "We got to the bridge." 
+        intervals [20]:
+            xmin = 24.35676416666786 
+            xmax = 25.401064828363502 
+            text = "" 
+        intervals [21]:
+            xmin = 25.401064828363502 
+            xmax = 28.898571785852784 
+            text = "Before we got to the bridge, we decided this: we would swim under the bridge." 
+        intervals [22]:
+            xmin = 28.898571785852784 
+            xmax = 29.132639175543186 
+            text = "" 
+        intervals [23]:
+            xmin = 29.132639175543186 
+            xmax = 30.343096302508222 
+            text = "We swam under the bridge." 
+        intervals [24]:
+            xmin = 30.343096302508222 
+            xmax = 31.8053447223216 
+            text = "" 
+        intervals [25]:
+            xmin = 31.8053447223216 
+            xmax = 37.42721499479702 
+            text = "As we got closer to the shore, we noticed a tall tower with a pointed roof." 
+        intervals [26]:
+            xmin = 37.42721499479702 
+            xmax = 37.64801612310476 
+            text = "" 
+        intervals [27]:
+            xmin = 37.64801612310476 
+            xmax = 44.29342778718135 
+            text = "We went to the tower and when we got there, we climbed up to the roof by walking along the side and the wall." 
+        intervals [28]:
+            xmin = 44.29342778718135 
+            xmax = 44.68876852477671 
+            text = "" 
+        intervals [29]:
+            xmin = 44.68876852477671 
+            xmax = 46.59447609543804 
+            text = "From the roof we looked around." 
+        intervals [30]:
+            xmin = 46.59447609543804 
+            xmax = 47.06349774066051 
+            text = "" 
+        intervals [31]:
+            xmin = 47.06349774066051 
+            xmax = 48.86174374937487 
+            text = "After looking around, we went down." 
+        intervals [32]:
+            xmin = 48.86174374937487 
+            xmax = 49.22384135299045 
+            text = "" 
+        intervals [33]:
+            xmin = 49.22384135299045 
+            xmax = 50.374811469167284 
+            text = "Then we went down the stairs." 
+        intervals [34]:
+            xmin = 50.374811469167284 
+            xmax = 50.60674187633982 
+            text = "" 
+        intervals [35]:
+            xmin = 50.60674187633982 
+            xmax = 60.451384845050654 
+            text = "Then we went around the house on the left side and walked on the high flat place." 
+        intervals [36]:
+            xmin = 60.451384845050654 
+            xmax = 60.789136994109704 
+            text = "" 
+        intervals [37]:
+            xmin = 60.789136994109704 
+            xmax = 63.1162611121264 
+            text = "We moved slightly to the right and kept going." 
+        intervals [38]:
+            xmin = 63.1162611121264 
+            xmax = 63.71597925982031 
+            text = "" 
+        intervals [39]:
+            xmin = 63.71597925982031 
+            xmax = 65.74318097786528 
+            text = "We came to a fork in the river." 
+        intervals [40]:
+            xmin = 65.74318097786528 
+            xmax = 66.25791643215197 
+            text = "" 
+        intervals [41]:
+            xmin = 66.25791643215197 
+            xmax = 69.54933571610073 
+            text = "We decided to swim across to the cape." 
+        intervals [42]:
+            xmin = 69.54933571610073 
+            xmax = 71.02487162557141 
+            text = "" 
+        intervals [43]:
+            xmin = 71.02487162557141 
+            xmax = 72.64648719680946 
+            text = "We crossed the river by swimming." 
+        intervals [44]:
+            xmin = 72.64648719680946 
+            xmax = 72.95443667666554 
+            text = "" 
+        intervals [45]:
+            xmin = 72.95443667666554 
+            xmax = 73.27875303541134 
+            text = "" 
+        intervals [46]:
+            xmin = 73.27875303541134 
+            xmax = 74.72380676134922 
+            text = "We stopped at a fork at the cape." 
+        intervals [47]:
+            xmin = 74.72380676134922 
+            xmax = 75.44271385192371 
+            text = "" 
+        intervals [48]:
+            xmin = 75.44271385192371 
+            xmax = 80.17873015873016 
+            text = "" 
