@@ -1,0 +1,388 @@
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__1
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Маряд' мюня нудм'.
+# text_ru = Стою за забором.
+# text_en = I am standing behind the fence.
+1	маря	маря-д'	fence-gen.poss.2sg	_	_	_	_	_	AlignBegin=894.114627823|AlignEnd=1329.4238186|Gloss=fence
+2	-д'	_	X	_	_	_	_	_	AlignBegin=894.114627823|AlignEnd=1329.4238186|Gloss=gen.poss.2sg
+3	мюня	мюня	behind	_	_	_	_	_	AlignBegin=1329.4238186|AlignEnd=1658.01204648|Gloss=behind
+4	ну	ну-дм'	stand-1sg	_	_	_	_	_	AlignBegin=1658.01204648|AlignEnd=2298.33782388|Gloss=stand
+5	-дм'	_	X	_	_	_	_	_	AlignBegin=1658.01204648|AlignEnd=2298.33782388|Gloss=1sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__2
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Маряд' мюня нум'.
+# text_ru = Стою за забором.
+# text_en = I am standing behind the fence.
+1	маря	маря-д'	fence-gen.poss.2sg	_	_	_	_	_	AlignBegin=2731.8672434|AlignEnd=3440.72925263|Gloss=fence
+2	-д'	_	X	_	_	_	_	_	AlignBegin=2731.8672434|AlignEnd=3440.72925263|Gloss=gen.poss.2sg
+3	мюня	мюня	behind	_	_	_	_	_	AlignBegin=3440.72925263|AlignEnd=3713.90114771|Gloss=behind
+4	ну	ну-м'	stand-1sg	_	_	_	_	_	AlignBegin=3713.90114771|AlignEnd=4857.65281391|Gloss=stand
+5	-м'	_	X	_	_	_	_	_	AlignBegin=3713.90114771|AlignEnd=4857.65281391|Gloss=1sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__4
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = "Тикахана сидя ты таняӈаха""."
+# text_ru = Там есть два оленя.
+# text_en = There are two reindeer.
+1	тикахана	тикахана	there	_	_	_	_	_	AlignBegin=9726.4004168|AlignEnd=10065.6804789|Gloss=there
+2	сидя	сидя	two	_	_	_	_	_	AlignBegin=10065.6804789|AlignEnd=10345.3191277|Gloss=two
+3	ты	ты	reindeer	_	_	_	_	_	AlignBegin=10345.3191277|AlignEnd=10534.5482886|Gloss=reindeer
+4	"таня	"таня-ӈа-ха"""	exist-co-3du	_	_	_	_	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=exist
+5	-ӈа	_	X	_	_	_	_	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=co
+6	-ха"""	_	X	_	_	_	_	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=3du
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__5
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Сидя тэхэ' няд маряд' нимня маряд' тяха' санэйв'.
+# text_ru = От двух оленей я перепрыгнул за забор.
+# text_en = I jump over the fence, away from the two reindeer.
+1	сидя	сидя	two	_	_	_	_	_	AlignBegin=11771.6155918|AlignEnd=12586.7149385|Gloss=two
+2	тэ	тэ-хэ'	reindeer-du	_	_	_	_	_	AlignBegin=12586.7149385|AlignEnd=12824.7997081|Gloss=reindeer
+3	-хэ'	_	X	_	_	_	_	_	AlignBegin=12586.7149385|AlignEnd=12824.7997081|Gloss=du
+4	ня	ня-д	at-abl	_	_	_	_	_	AlignBegin=12824.7997081|AlignEnd=13370.6525946|Gloss=at
+5	-д	_	X	_	_	_	_	_	AlignBegin=12824.7997081|AlignEnd=13370.6525946|Gloss=abl
+6	маря	маря-д'	fence-gen.poss.2sg	_	_	_	_	_	AlignBegin=13370.6525946|AlignEnd=13846.8221338|Gloss=fence
+7	-д'	_	X	_	_	_	_	_	AlignBegin=13370.6525946|AlignEnd=13846.8221338|Gloss=gen.poss.2sg
+8	ни	ни-мня	top-prol	_	_	_	_	_	AlignBegin=13846.8221338|AlignEnd=15391.4696636|Gloss=top
+9	-мня	_	X	_	_	_	_	_	AlignBegin=13846.8221338|AlignEnd=15391.4696636|Gloss=prol
+10	маря	маря-д'	fence-gen.poss.2sg	_	_	_	_	_	AlignBegin=15391.4696636|AlignEnd=15896.6739308|Gloss=fence
+11	-д'	_	X	_	_	_	_	_	AlignBegin=15391.4696636|AlignEnd=15896.6739308|Gloss=gen.poss.2sg
+12	тяха'	тяха'	over	_	_	_	_	_	AlignBegin=15896.6739308|AlignEnd=16227.66983|Gloss=over
+13	санэй	санэй-в'	jump-1sg.refl	_	_	_	_	_	AlignBegin=16227.66983|AlignEnd=17420.2206408|Gloss=jump
+14	-в'	_	X	_	_	_	_	_	AlignBegin=16227.66983|AlignEnd=17420.2206408|Gloss=1sg.refl
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__6
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = "Сана""махадани' яда тамна тяха' нэкалӈав."
+# text_ru = После того как я перепрыгнул, пошел дальше.
+# text_en = After jumping, I continue walking.
+1	"сана	"сана-""ма-хада-ни'"	jump-pfv.an-abl-poss.1sg	_	_	_	_	_	AlignBegin=17420.2206408|AlignEnd=18598.7361594|Gloss=jump
+2	-""ма	_	X	_	_	_	_	_	AlignBegin=17420.2206408|AlignEnd=18598.7361594|Gloss=pfv.an
+3	-хада	_	X	_	_	_	_	_	AlignBegin=17420.2206408|AlignEnd=18598.7361594|Gloss=abl
+4	-ни'"	_	X	_	_	_	_	_	AlignBegin=17420.2206408|AlignEnd=18598.7361594|Gloss=poss.1sg
+5	яда	яда	on.foot	_	_	_	_	_	AlignBegin=18598.7361594|AlignEnd=19393.2419557|Gloss=on.foot
+6	тамна	тамна	even	_	_	_	_	_	AlignBegin=19393.2419557|AlignEnd=19918.0531239|Gloss=even
+7	тяха'	тяха'	further	_	_	_	_	_	AlignBegin=19918.0531239|AlignEnd=20060.1894819|Gloss=further
+8	нэкал	нэкал-ӈа-в	pull-co-1sg.sg	_	_	_	_	_	AlignBegin=20060.1894819|AlignEnd=20965.3658504|Gloss=pull
+9	-ӈа	_	X	_	_	_	_	_	AlignBegin=20060.1894819|AlignEnd=20965.3658504|Gloss=co
+10	-в	_	X	_	_	_	_	_	AlignBegin=20060.1894819|AlignEnd=20965.3658504|Gloss=1sg.sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__7
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = "Нерни' няна пирця харадм' манэ""ӈадм'."
+# text_ru = Впереди я увидел высокую башню.
+# text_en = I see a tall tower in front of me.
+1	нер	нер-ни'	in.front.of-gen.1sg	_	_	_	_	_	AlignBegin=20965.3658504|AlignEnd=21678.6454018|Gloss=in.front.of
+2	-ни'	_	X	_	_	_	_	_	AlignBegin=20965.3658504|AlignEnd=21678.6454018|Gloss=gen.1sg
+3	няна	няна	1sg.dat	_	_	_	_	_	AlignBegin=21678.6454018|AlignEnd=22455.711916|Gloss=1sg.dat
+4	пирця	пирця	tall	_	_	_	_	_	AlignBegin=22455.711916|AlignEnd=23198.5464252|Gloss=tall
+5	харад	харад-м'	house-acc	_	_	_	_	_	AlignBegin=23198.5464252|AlignEnd=23664.1016937|Gloss=house
+6	-м'	_	X	_	_	_	_	_	AlignBegin=23198.5464252|AlignEnd=23664.1016937|Gloss=acc
+7	"манэ""	"манэ""-ӈа-дм'"	see-co-1sg	_	_	_	_	_	AlignBegin=23664.1016937|AlignEnd=24295.224433|Gloss=see
+8	-ӈа	_	X	_	_	_	_	_	AlignBegin=23664.1016937|AlignEnd=24295.224433|Gloss=co
+9	-дм'"	_	X	_	_	_	_	_	AlignBegin=23664.1016937|AlignEnd=24295.224433|Gloss=1sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__8
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Махалэйда мятрев' саблюй.
+# text_ru = Его крыша острая как чум.
+# text_en = Its roof is pointed like a chum (tent).
+1	махалэй	махалэй-да	roof-poss.3sg	_	_	_	_	_	AlignBegin=24295.224433|AlignEnd=25130.0951222|Gloss=roof
+2	-да	_	X	_	_	_	_	_	AlignBegin=24295.224433|AlignEnd=25130.0951222|Gloss=poss.3sg
+3	мят	мят-рев'	tent-equ	_	_	_	_	_	AlignBegin=25130.0951222|AlignEnd=25678.8455248|Gloss=tent
+4	-рев'	_	X	_	_	_	_	_	AlignBegin=25130.0951222|AlignEnd=25678.8455248|Gloss=equ
+5	саблюй	саблюй	peak	_	_	_	_	_	AlignBegin=25678.8455248|AlignEnd=26181.8667272|Gloss=peak
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__9
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Сидя сидеранда си, нёнда си таня.
+# text_ru = У неё два окна и есть дверь.
+# text_en = It has two windows and a door.
+1	сидя	сидя	two	_	_	_	_	_	AlignBegin=26911.8292512|AlignEnd=27237.6456069|Gloss=two
+2	сидера	сидера-нда	window-gen.poss.3sg	_	_	_	_	_	AlignBegin=27237.6456069|AlignEnd=27735.6149465|Gloss=window
+3	-нда	_	X	_	_	_	_	_	AlignBegin=27237.6456069|AlignEnd=27735.6149465|Gloss=gen.poss.3sg
+4	си	си	hole	_	_	_	_	_	AlignBegin=27735.6149465|AlignEnd=28467.4789758|Gloss=hole
+5	нё	нё-нда	door-gen.poss.3sg	_	_	_	_	_	AlignBegin=29372.877775|AlignEnd=29784.0797296|Gloss=door
+6	-нда	_	X	_	_	_	_	_	AlignBegin=29372.877775|AlignEnd=29784.0797296|Gloss=gen.poss.3sg
+7	си	си	hole	_	_	_	_	_	AlignBegin=29784.0797296|AlignEnd=29934.9795295|Gloss=hole
+8	таня	таня	exist.3sg	_	_	_	_	_	AlignBegin=29934.9795295|AlignEnd=30581.4579598|Gloss=exist.3sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__10
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Нёнда си танцянзавэй.
+# text_ru = Его дверь имеет летницу.
+# text_en = "Its door has stairs (""its door is bestaired"")."
+1	нё	нё-нда	door-gen.poss.3sg	_	_	_	_	_	AlignBegin=30581.4579598|AlignEnd=30877.2495651|Gloss=door
+2	-нда	_	X	_	_	_	_	_	AlignBegin=30581.4579598|AlignEnd=30877.2495651|Gloss=gen.poss.3sg
+3	си	си	hole	_	_	_	_	_	AlignBegin=30877.2495651|AlignEnd=31019.2040259|Gloss=hole
+4	танцян	танцян-завэй	stairs-com	_	_	_	_	_	AlignBegin=31019.2040259|AlignEnd=32033.8557966|Gloss=stairs
+5	-завэй	_	X	_	_	_	_	_	AlignBegin=31019.2040259|AlignEnd=32033.8557966|Gloss=com
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__11
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Танця' сер' танэйв'.
+# text_ru = По лестнице я поднялся вверх.
+# text_en = I walk up the stairs.
+1	танця'	танця'	stairs	_	_	_	_	_	AlignBegin=32377.7002821|AlignEnd=32862.3592078|Gloss=stairs
+2	сер'	сер'	when	_	_	_	_	_	AlignBegin=32862.3592078|AlignEnd=33230.9993945|Gloss=when
+3	танэ	танэ-й-в'	go.up-1sg.refl	_	_	_	_	_	AlignBegin=33230.9993945|AlignEnd=33970.836445|Gloss=TODO
+4	-й	_	X	_	_	_	_	_	AlignBegin=33230.9993945|AlignEnd=33970.836445|Gloss=TODO
+5	-в'	_	X	_	_	_	_	_	AlignBegin=33230.9993945|AlignEnd=33970.836445|Gloss=TODO
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__12
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Нё' сивня мяттюдм'.
+# text_ru = Зашел в дверь.
+# text_en = I go through the door.
+1	нё	нё-'	door-gen	_	_	_	_	_	AlignBegin=33970.836445|AlignEnd=34338.5702354|Gloss=door
+2	-'	_	X	_	_	_	_	_	AlignBegin=33970.836445|AlignEnd=34338.5702354|Gloss=gen
+3	си	си-вня	hole-prol	_	_	_	_	_	AlignBegin=34338.5702354|AlignEnd=34667.1340567|Gloss=hole
+4	-вня	_	X	_	_	_	_	_	AlignBegin=34338.5702354|AlignEnd=34667.1340567|Gloss=prol
+5	мя	мя-т-тю-дм'	enter-1sg	_	_	_	_	_	AlignBegin=34667.1340567|AlignEnd=35601.4728041|Gloss=TODO
+6	-т	_	X	_	_	_	_	_	AlignBegin=34667.1340567|AlignEnd=35601.4728041|Gloss=TODO
+7	-тю	_	X	_	_	_	_	_	AlignBegin=34667.1340567|AlignEnd=35601.4728041|Gloss=TODO
+8	-дм'	_	X	_	_	_	_	_	AlignBegin=34667.1340567|AlignEnd=35601.4728041|Gloss=TODO
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__13
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Маха саблюй пирця харад' мюмня ирт' хаядм'.
+# text_ru = Башню с острой крышей я прошел насквозь.
+# text_en = I walk through the tower with the pointed roof.
+1	маха	маха	roof	_	_	_	_	_	AlignBegin=36435.7518715|AlignEnd=36918.2698069|Gloss=roof
+2	саблюй	саблюй	peak	_	_	_	_	_	AlignBegin=36918.2698069|AlignEnd=37597.3848717|Gloss=peak
+3	пирця	пирця	tall	_	_	_	_	_	AlignBegin=37597.3848717|AlignEnd=37973.5101384|Gloss=tall
+4	харад	харад-'	house-gen	_	_	_	_	_	AlignBegin=37973.5101384|AlignEnd=38386.2031393|Gloss=house
+5	-'	_	X	_	_	_	_	_	AlignBegin=37973.5101384|AlignEnd=38386.2031393|Gloss=gen
+6	мюмня	мюмня	through	_	_	_	_	_	AlignBegin=38386.2031393|AlignEnd=39331.7402681|Gloss=through
+7	ирт'	ирт'	straight	_	_	_	_	_	AlignBegin=40256.3815486|AlignEnd=40789.2256764|Gloss=straight
+8	хая	хая-дм'	go-1sg	_	_	_	_	_	AlignBegin=40789.2256764|AlignEnd=41517.2698276|Gloss=go
+9	-дм'	_	X	_	_	_	_	_	AlignBegin=40789.2256764|AlignEnd=41517.2698276|Gloss=1sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__14
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = "Няр"" мадав."
+# text_ru = Поперек пересек ее.
+# text_en = I cross it.
+1	"няр"""	"няр"""	across	_	_	_	_	_	AlignBegin=41517.2698276|AlignEnd=41950.7867283|Gloss=across
+2	мада	мада-в	pass.across-1sg.sg	_	_	_	_	_	AlignBegin=41950.7867283|AlignEnd=42727.7658749|Gloss=pass.across
+3	-в	_	X	_	_	_	_	_	AlignBegin=41950.7867283|AlignEnd=42727.7658749|Gloss=1sg.sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__15
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Няби нё' сивня тарпыв'.
+# text_ru = Я вышел через другую дверь.
+# text_en = I go out the other door.
+1	няби	няби	other	_	_	_	_	_	AlignBegin=42727.7658749|AlignEnd=43108.1926069|Gloss=other
+2	нё	нё-'	door-gen	_	_	_	_	_	AlignBegin=43108.1926069|AlignEnd=43366.8506481|Gloss=door
+3	-'	_	X	_	_	_	_	_	AlignBegin=43108.1926069|AlignEnd=43366.8506481|Gloss=gen
+4	си	си-вня	hole-prol	_	_	_	_	_	AlignBegin=43366.8506481|AlignEnd=43919.5993389|Gloss=hole
+5	-вня	_	X	_	_	_	_	_	AlignBegin=43366.8506481|AlignEnd=43919.5993389|Gloss=prol
+6	тарпы	тарпы-в'	walk.out-1sg.refl	_	_	_	_	_	AlignBegin=45638.0808454|AlignEnd=46174.4110543|Gloss=walk.out
+7	-в'	_	X	_	_	_	_	_	AlignBegin=45638.0808454|AlignEnd=46174.4110543|Gloss=1sg.refl
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__16
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Харадм' хэхэдёйтав.
+# text_ru = Я прошел дом насквозь.
+# text_en = I cross the house.
+1	харад	харад-м'	house-acc	_	_	_	_	_	AlignBegin=46174.4110543|AlignEnd=46760.2228806|Gloss=house
+2	-м'	_	X	_	_	_	_	_	AlignBegin=46174.4110543|AlignEnd=46760.2228806|Gloss=acc
+3	хэхэдёйта	хэхэдёйта-в	run.across-1sg.sg	_	_	_	_	_	AlignBegin=46760.2228806|AlignEnd=47284.7245968|Gloss=run.across
+4	-в	_	X	_	_	_	_	_	AlignBegin=46760.2228806|AlignEnd=47284.7245968|Gloss=1sg.sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__17
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = "Нё' сим' нэв, танця' сер' ха""амыв'."
+# text_ru = Открыл дверь и спустился по лестнице.
+# text_en = I open the door and go down the stairs.
+1	нё	нё-'	door-gen	_	_	_	_	_	AlignBegin=48294.6893507|AlignEnd=48554.957965|Gloss=door
+2	-'	_	X	_	_	_	_	_	AlignBegin=48294.6893507|AlignEnd=48554.957965|Gloss=gen
+3	си	си-м'	hole-acc	_	_	_	_	_	AlignBegin=48554.957965|AlignEnd=48763.6882398|Gloss=hole
+4	-м'	_	X	_	_	_	_	_	AlignBegin=48554.957965|AlignEnd=48763.6882398|Gloss=acc
+5	нэ	нэ-в	open-1sg.sg	_	_	_	_	_	AlignBegin=48763.6882398|AlignEnd=49039.4183559|Gloss=open
+6	-в	_	X	_	_	_	_	_	AlignBegin=48763.6882398|AlignEnd=49039.4183559|Gloss=1sg.sg
+7	танця'	танця'	stairs	_	_	_	_	_	AlignBegin=49039.4183559|AlignEnd=49428.5328189|Gloss=stairs
+8	сер'	сер'	when	_	_	_	_	_	AlignBegin=49428.5328189|AlignEnd=49572.8401694|Gloss=when
+9	"ха""амы	"ха""амы-в'"	go.down-1sg.refl	_	_	_	_	_	AlignBegin=49572.8401694|AlignEnd=50416.4358904|Gloss=go.down
+10	-в'"	_	X	_	_	_	_	_	AlignBegin=49572.8401694|AlignEnd=50416.4358904|Gloss=1sg.refl
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__18
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Яда нэкалӈав, маханякубта мэв.
+# text_ru = Я пошел пешком, повернул слегка вправо.
+# text_en = I walk and turn right.
+1	яда	яда	on.foot	_	_	_	_	_	AlignBegin=51195.2576167|AlignEnd=51449.1334947|Gloss=on.foot
+2	нэкал	нэкал-ӈа-в	pull-1sg.sg	_	_	_	_	_	AlignBegin=51449.1334947|AlignEnd=51865.0578054|Gloss=TODO
+3	-ӈа	_	X	_	_	_	_	_	AlignBegin=51449.1334947|AlignEnd=51865.0578054|Gloss=TODO
+4	-в	_	X	_	_	_	_	_	AlignBegin=51449.1334947|AlignEnd=51865.0578054|Gloss=TODO
+5	маханякубта	маханякубта	right.side	_	_	_	_	_	AlignBegin=51865.0578054|AlignEnd=52464.6370066|Gloss=right.side
+6	мэ	мэ-в	take-1sg.sg	_	_	_	_	_	AlignBegin=52464.6370066|AlignEnd=53043.5989992|Gloss=take
+7	-в	_	X	_	_	_	_	_	AlignBegin=52464.6370066|AlignEnd=53043.5989992|Gloss=1sg.sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__19
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Маханякубта' мимани' сер' яха' таркавна ӈадимядм'.
+# text_ru = Пока шел слегка вправо, пришел на развилку реки.
+# text_en = As I walk to the right, I come to a fork in the river.
+1	маханякубта	маханякубта-'	right.side-gen	_	_	_	_	_	AlignBegin=53489.5329832|AlignEnd=54096.3969304|Gloss=right.side
+2	-'	_	X	_	_	_	_	_	AlignBegin=53489.5329832|AlignEnd=54096.3969304|Gloss=gen
+3	ми	ми-ма-ни'	go-ipfv.an-gen.poss.1sg	_	_	_	_	_	AlignBegin=54096.3969304|AlignEnd=54540.9151083|Gloss=go
+4	-ма	_	X	_	_	_	_	_	AlignBegin=54096.3969304|AlignEnd=54540.9151083|Gloss=ipfv.an
+5	-ни'	_	X	_	_	_	_	_	AlignBegin=54096.3969304|AlignEnd=54540.9151083|Gloss=gen.poss.1sg
+6	сер'	сер'	when	_	_	_	_	_	AlignBegin=54540.9151083|AlignEnd=55213.4904383|Gloss=when
+7	яха	яха-'	river-gen	_	_	_	_	_	AlignBegin=55213.4904383|AlignEnd=55476.3359696|Gloss=river
+8	-'	_	X	_	_	_	_	_	AlignBegin=55213.4904383|AlignEnd=55476.3359696|Gloss=gen
+9	тарка	тарка-вна	fork-prol	_	_	_	_	_	AlignBegin=55476.3359696|AlignEnd=55944.0464002|Gloss=fork
+10	-вна	_	X	_	_	_	_	_	AlignBegin=55476.3359696|AlignEnd=55944.0464002|Gloss=prol
+11	ӈадимя	ӈадимя-дм'	appear-1sg	_	_	_	_	_	AlignBegin=55944.0464002|AlignEnd=56803.5755585|Gloss=appear
+12	-дм'	_	X	_	_	_	_	_	AlignBegin=55944.0464002|AlignEnd=56803.5755585|Gloss=1sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__20
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Няби яха' таркам' ӈохолё мадав.
+# text_ru = Один рукав реки я переплыл вплавь.
+# text_en = I swim across the river.
+1	няби	няби	other	_	_	_	_	_	AlignBegin=57502.863929|AlignEnd=57830.1323846|Gloss=other
+2	яха	яха-'	river-gen	_	_	_	_	_	AlignBegin=57830.1323846|AlignEnd=57995.0550709|Gloss=river
+3	-'	_	X	_	_	_	_	_	AlignBegin=57830.1323846|AlignEnd=57995.0550709|Gloss=gen
+4	тарка	тарка-м'	fork-acc	_	_	_	_	_	AlignBegin=57995.0550709|AlignEnd=58286.2466889|Gloss=fork
+5	-м'	_	X	_	_	_	_	_	AlignBegin=57995.0550709|AlignEnd=58286.2466889|Gloss=acc
+6	ӈохолё	ӈохолё	swim.cvb	_	_	_	_	_	AlignBegin=58286.2466889|AlignEnd=58667.6304009|Gloss=swim.cvb
+7	мада	мада-в	pass.across-1sg.sg	_	_	_	_	_	AlignBegin=58667.6304009|AlignEnd=59310.226598|Gloss=pass.across
+8	-в	_	X	_	_	_	_	_	AlignBegin=58667.6304009|AlignEnd=59310.226598|Gloss=1sg.sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__21
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Тарканда пыя' ни' танэйв'.
+# text_ru = Поднялся на его мыс на развилке.
+# text_en = I climb up at the end of the fork.
+1	тарка	тарка-нда	fork-gen.poss.3sg	_	_	_	_	_	AlignBegin=59310.226598|AlignEnd=59969.9522583|Gloss=fork
+2	-нда	_	X	_	_	_	_	_	AlignBegin=59310.226598|AlignEnd=59969.9522583|Gloss=gen.poss.3sg
+3	пыя	пыя-'	end-gen	_	_	_	_	_	AlignBegin=59969.9522583|AlignEnd=60292.2067032|Gloss=end
+4	-'	_	X	_	_	_	_	_	AlignBegin=59969.9522583|AlignEnd=60292.2067032|Gloss=gen
+5	ни'	ни'	at	_	_	_	_	_	AlignBegin=60292.2067032|AlignEnd=60416.1507205|Gloss=at
+6	танэй	танэй-в'	rise-1sg.refl	_	_	_	_	_	AlignBegin=60416.1507205|AlignEnd=61319.6329482|Gloss=rise
+7	-в'	_	X	_	_	_	_	_	AlignBegin=60416.1507205|AlignEnd=61319.6329482|Gloss=1sg.refl
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__22
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = "Тарканда пыям' мада""махадани' ӈани' ӈохолё нэкалӈав, яхам' мадав."
+# text_ru = После того как я перешел его мыс на развилке дальше снова отправился вплавь, и пересек реку.
+# text_en = Having crossed the headland, I continue to swim, crossing the river.
+1	тарка	тарка-нда	fork-gen.poss.3sg	_	_	_	_	_	AlignBegin=61319.6329482|AlignEnd=62081.1251736|Gloss=fork
+2	-нда	_	X	_	_	_	_	_	AlignBegin=61319.6329482|AlignEnd=62081.1251736|Gloss=gen.poss.3sg
+3	пыя	пыя-м'	end-acc	_	_	_	_	_	AlignBegin=62081.1251736|AlignEnd=62331.600821|Gloss=end
+4	-м'	_	X	_	_	_	_	_	AlignBegin=62081.1251736|AlignEnd=62331.600821|Gloss=acc
+5	"мада	"мада-""ма-хада-ни'"	pass.across-ipfv.an-abl-poss.1sg	_	_	_	_	_	AlignBegin=62331.600821|AlignEnd=63141.9632096|Gloss=pass.across
+6	-""ма	_	X	_	_	_	_	_	AlignBegin=62331.600821|AlignEnd=63141.9632096|Gloss=ipfv.an
+7	-хада	_	X	_	_	_	_	_	AlignBegin=62331.600821|AlignEnd=63141.9632096|Gloss=abl
+8	-ни'"	_	X	_	_	_	_	_	AlignBegin=62331.600821|AlignEnd=63141.9632096|Gloss=poss.1sg
+9	ӈани'	ӈани'	again	_	_	_	_	_	AlignBegin=64018.6279754|AlignEnd=64261.736692|Gloss=again
+10	ӈохолё	ӈохолё	swim-cvb	_	_	_	_	_	AlignBegin=64261.736692|AlignEnd=64939.494326|Gloss=TODO
+11	нэкал	нэкал-ӈа-в	pull-co-1sg.sg	_	_	_	_	_	AlignBegin=64939.494326|AlignEnd=65639.3527525|Gloss=pull
+12	-ӈа	_	X	_	_	_	_	_	AlignBegin=64939.494326|AlignEnd=65639.3527525|Gloss=co
+13	-в	_	X	_	_	_	_	_	AlignBegin=64939.494326|AlignEnd=65639.3527525|Gloss=1sg.sg
+14	яха	яха-м'	river-acc	_	_	_	_	_	AlignBegin=66486.5497951|AlignEnd=67237.9767372|Gloss=river
+15	-м'	_	X	_	_	_	_	_	AlignBegin=66486.5497951|AlignEnd=67237.9767372|Gloss=acc
+16	мада	мада-в	pass.across-1sg.sg	_	_	_	_	_	AlignBegin=67237.9767372|AlignEnd=68485.6863959|Gloss=pass.across
+17	-в	_	X	_	_	_	_	_	AlignBegin=67237.9767372|AlignEnd=68485.6863959|Gloss=1sg.sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__23
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = "Тадтикахад ӈани' ялъява"" нерни' няна пям' манэ""ӈадм'."
+# text_ru = Затем я снова пошел пешком и увидел впереди себя дерево.
+# text_en = As I walk I see a tree in front of me.
+1	тадтикахад	тадтикахад	afterwards	_	_	_	_	_	AlignBegin=68485.6863959|AlignEnd=69421.8852824|Gloss=afterwards
+2	ӈани'	ӈани'	again	_	_	_	_	_	AlignBegin=69421.8852824|AlignEnd=69639.9988125|Gloss=again
+3	"ялъя	"ялъя-ва-"""	walk-ipfv.an-gen	_	_	_	_	_	AlignBegin=69639.9988125|AlignEnd=70356.6575543|Gloss=walk
+4	-ва	_	X	_	_	_	_	_	AlignBegin=69639.9988125|AlignEnd=70356.6575543|Gloss=ipfv.an
+5	-"""	_	X	_	_	_	_	_	AlignBegin=69639.9988125|AlignEnd=70356.6575543|Gloss=gen
+6	нерни'	нерни'	in.front.of-gen.1sg	_	_	_	_	_	AlignBegin=70703.3022717|AlignEnd=71046.0521048|Gloss=TODO
+7	няна	няна	1sg.dat	_	_	_	_	_	AlignBegin=71046.0521048|AlignEnd=71303.1144795|Gloss=1sg.dat
+8	пя	пя-м'	tree-acc	_	_	_	_	_	AlignBegin=71303.1144795|AlignEnd=71521.2280096|Gloss=tree
+9	-м'	_	X	_	_	_	_	_	AlignBegin=71303.1144795|AlignEnd=71521.2280096|Gloss=acc
+10	"манэ""	"манэ""-ӈа-дм'"	see-co-1sg	_	_	_	_	_	AlignBegin=71521.2280096|AlignEnd=72274.3673263|Gloss=see
+11	-ӈа	_	X	_	_	_	_	_	AlignBegin=71521.2280096|AlignEnd=72274.3673263|Gloss=co
+12	-дм'"	_	X	_	_	_	_	_	AlignBegin=71521.2280096|AlignEnd=72274.3673263|Gloss=1sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__24
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Пям' маханяӈы хэвувнанда яля' пырдари' сюртев.
+# text_ru = Дерево я обошел по кругу справа, против хода солнца.
+# text_en = I walk around the tree to the right, against the sun.
+1	пя	пя-м'	tree-acc	_	_	_	_	_	AlignBegin=72274.3673263|AlignEnd=72669.915124|Gloss=tree
+2	-м'	_	X	_	_	_	_	_	AlignBegin=72274.3673263|AlignEnd=72669.915124|Gloss=acc
+3	маханяӈы	маханяӈы	from.right-adj	_	_	_	_	_	AlignBegin=72669.915124|AlignEnd=73312.8038815|Gloss=TODO
+4	хэву	хэву-вна-нда	side-prol-poss.3sg	_	_	_	_	_	AlignBegin=73312.8038815|AlignEnd=74457.5606367|Gloss=side
+5	-вна	_	X	_	_	_	_	_	AlignBegin=73312.8038815|AlignEnd=74457.5606367|Gloss=prol
+6	-нда	_	X	_	_	_	_	_	AlignBegin=73312.8038815|AlignEnd=74457.5606367|Gloss=poss.3sg
+7	яля	яля-'	sun-gen	_	_	_	_	_	AlignBegin=74457.5606367|AlignEnd=74752.0451643|Gloss=sun
+8	-'	_	X	_	_	_	_	_	AlignBegin=74457.5606367|AlignEnd=74752.0451643|Gloss=gen
+9	пырдари'	пырдари'	against	_	_	_	_	_	AlignBegin=74752.0451643|AlignEnd=75390.7862524|Gloss=against
+10	сюрте	сюрте-в	go.around-1sg.sg	_	_	_	_	_	AlignBegin=75390.7862524|AlignEnd=76308.9403949|Gloss=go.around
+11	-в	_	X	_	_	_	_	_	AlignBegin=75390.7862524|AlignEnd=76308.9403949|Gloss=1sg.sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__25
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = "Тамна тяха"" ялъяв', ядвани' сер' пулм' манэ""ӈадм'."
+# text_ru = Направился пешком дальше, пока я шел, увидел мост.
+# text_en = I keep going, and as I go I see a bridge.
+1	тамна	тамна	even	_	_	_	_	_	AlignBegin=76308.9403949|AlignEnd=76791.9322177|Gloss=even
+2	"тяха"""	"тяха"""	further	_	_	_	_	_	AlignBegin=76791.9322177|AlignEnd=76959.9431475|Gloss=further
+3	ялъя	ялъя-в'	walk-1sg.refl	_	_	_	_	_	AlignBegin=76959.9431475|AlignEnd=77445.8125931|Gloss=walk
+4	-в'	_	X	_	_	_	_	_	AlignBegin=76959.9431475|AlignEnd=77445.8125931|Gloss=1sg.refl
+5	яд	яд-ва-ни'	walk-ipfv.an-gen.poss.1sg	_	_	_	_	_	AlignBegin=77977.0903981|AlignEnd=78535.6132188|Gloss=walk
+6	-ва	_	X	_	_	_	_	_	AlignBegin=77977.0903981|AlignEnd=78535.6132188|Gloss=ipfv.an
+7	-ни'	_	X	_	_	_	_	_	AlignBegin=77977.0903981|AlignEnd=78535.6132188|Gloss=gen.poss.1sg
+8	сер'	сер'	when	_	_	_	_	_	AlignBegin=78535.6132188|AlignEnd=78853.4717346|Gloss=when
+9	пул	пул-м'	bridge-acc	_	_	_	_	_	AlignBegin=79339.3411802|AlignEnd=79539.1379616|Gloss=bridge
+10	-м'	_	X	_	_	_	_	_	AlignBegin=79339.3411802|AlignEnd=79539.1379616|Gloss=acc
+11	"манэ""	"манэ""-ӈа-дм'"	see-co-1sg	_	_	_	_	_	AlignBegin=79539.1379616|AlignEnd=80725.9593552|Gloss=see
+12	-ӈа	_	X	_	_	_	_	_	AlignBegin=79539.1379616|AlignEnd=80725.9593552|Gloss=co
+13	-дм'"	_	X	_	_	_	_	_	AlignBegin=79539.1379616|AlignEnd=80725.9593552|Gloss=1sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__26
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Пул' сер' яхам' няби' ня' мадав.
+# text_ru = Перешел реку по мосту на другую сторону.
+# text_en = I cross the river on the bridge to the other side.
+1	пул	пул-'	bridge-gen	_	_	_	_	_	AlignBegin=81871.61951|AlignEnd=82144.3460374|Gloss=bridge
+2	-'	_	X	_	_	_	_	_	AlignBegin=81871.61951|AlignEnd=82144.3460374|Gloss=gen
+3	сер'	сер'	when	_	_	_	_	_	AlignBegin=82144.3460374|AlignEnd=82420.5247993|Gloss=when
+4	яха	яха-м'	river-acc	_	_	_	_	_	AlignBegin=82420.5247993|AlignEnd=83000.5001993|Gloss=river
+5	-м'	_	X	_	_	_	_	_	AlignBegin=82420.5247993|AlignEnd=83000.5001993|Gloss=acc
+6	няби'	няби'	other	_	_	_	_	_	AlignBegin=83000.5001993|AlignEnd=83628.8068827|Gloss=other
+7	ня'	ня'	to	_	_	_	_	_	AlignBegin=83628.8068827|AlignEnd=83787.6096708|Gloss=to
+8	мада	мада-в	pass.across-1sg.sg	_	_	_	_	_	AlignBegin=83787.6096708|AlignEnd=84765.8565224|Gloss=pass.across
+9	-в	_	X	_	_	_	_	_	AlignBegin=83787.6096708|AlignEnd=84765.8565224|Gloss=1sg.sg
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__27
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Тадтикахад сятанякубта' мэхэя тамна тяха' ялъяв'.
+# text_ru = После этого слегка повернув влево я пошел дальше.
+# text_en = Then I keep walking and turn left.
+1	тадтикахад	тадтикахад	afterwards	_	_	_	_	_	AlignBegin=85608.2363685|AlignEnd=86178.7670915|Gloss=afterwards
+2	сятанякубта	сятанякубта-'	left.side-gen	_	_	_	_	_	AlignBegin=86178.7670915|AlignEnd=86881.7424467|Gloss=left.side
+3	-'	_	X	_	_	_	_	_	AlignBegin=86178.7670915|AlignEnd=86881.7424467|Gloss=gen
+4	мэ	мэ-хэя	take-intens.cvb	_	_	_	_	_	AlignBegin=86881.7424467|AlignEnd=88257.1290112|Gloss=take
+5	-хэя	_	X	_	_	_	_	_	AlignBegin=86881.7424467|AlignEnd=88257.1290112|Gloss=intens.cvb
+6	тамна	тамна	even	_	_	_	_	_	AlignBegin=88257.1290112|AlignEnd=88445.6079108|Gloss=even
+7	тяха'	тяха'	further	_	_	_	_	_	AlignBegin=88445.6079108|AlignEnd=88578.0525429|Gloss=further
+8	ялъя	ялъя-в'	walk-1sg.refl	_	_	_	_	_	AlignBegin=88578.0525429|AlignEnd=89720.9798235|Gloss=walk
+9	-в'	_	X	_	_	_	_	_	AlignBegin=88578.0525429|AlignEnd=89720.9798235|Gloss=1sg.refl
+
+# sent_id = nar_RouDes_2017_04_26_002_yrk-tun__28
+# sound_url = https://grew.fr/audio/nar_RouDes_2017_04_26_002_yrk-tun.wav
+# text = Тадтикахад маряд' нё сивня тарпыв'.
+# text_ru = А затем вышел в ворота забора.
+# text_en = Then I go through the gate of the fence.
+1	тадтикахад	тадтикахад	afterwards	_	_	_	_	_	AlignBegin=89720.9798235|AlignEnd=90549.3356994|Gloss=afterwards
+2	маря	маря-д'	fence-gen.poss.2sg	_	_	_	_	_	AlignBegin=91210.1586796|AlignEnd=91587.7718111|Gloss=fence
+3	-д'	_	X	_	_	_	_	_	AlignBegin=91210.1586796|AlignEnd=91587.7718111|Gloss=gen.poss.2sg
+4	нё	нё	door	_	_	_	_	_	AlignBegin=91587.7718111|AlignEnd=91791.6829022|Gloss=door
+5	си	си-вня	hole-prol	_	_	_	_	_	AlignBegin=91791.6829022|AlignEnd=92169.2960337|Gloss=hole
+6	-вня	_	X	_	_	_	_	_	AlignBegin=91791.6829022|AlignEnd=92169.2960337|Gloss=prol
+7	тарпы	тарпы-в'	go.out-1sg.refl	_	_	_	_	_	AlignBegin=92169.2960337|AlignEnd=93394.1456977|Gloss=go.out
+8	-в'	_	X	_	_	_	_	_	AlignBegin=92169.2960337|AlignEnd=93394.1456977|Gloss=1sg.refl
+
